@@ -1,0 +1,1340 @@
+ID,FIRST_NAME,LAST_NAME,AGE,GENDER,BMI,CHILDREN,SMOKER,COUNTY,TOTAL_CLAIMS
+1,Matilda,Thompson,19,female,27.9,0,yes,North Somerset,16884.92
+2,George,Robinson,18,male,33.8,1,no,Derbyshire,1725.55
+3,Max,Brown,28,male,33,3,no,Warwickshire,4449.46
+4,Tommy,Wood,33,male,22.7,0,no,Greater Manchester,21984.47
+5,Ethan,Clarke,32,male,28.9,0,no,Greater Manchester,3866.86
+6,Millie,Walker,31,female,25.7,0,no,Oxfordshire,3756.62
+7,Rosie,Scott,46,female,33.4,1,no,East Riding of Yorkshire,8240.59
+8,Isla,Wilson,37,female,27.7,3,no,County Durham,7281.51
+9,Isaac,Lewis,37,male,29.8,2,no,West Midlands,6406.41
+10,Isabella,Williams,60,female,25.8,0,no,Isle of Wight,28923.14
+11,James,Clarke,25,male,26.2,0,no,East Sussex,2721.32
+12,Harper,Corbyn,62,female,26.3,0,yes,Staffordshire,27808.73
+13,Lucas,Wright,23,male,34.4,0,no,Bedfordshire,1826.84
+14,Sienna,Corbyn,56,female,39.8,0,no,Devon,11090.72
+15,Oliver,Martin,27,male,42.1,0,yes,Lincolnshire,39611.76
+16,Logan,Lewis,19,male,24.6,1,no,West Yorkshire,1837.24
+17,Sophie,Edwards,52,female,30.8,1,no,Warwickshire,10797.34
+18,Charlie,Jones,23,male,23.8,0,no,Lancashire,2395.17
+19,Joshua,Wright,56,male,40.3,0,no,Herefordshire,10602.39
+20,Jack,Edwards,30,male,35.3,0,yes,Cornwall,36837.47
+21,Willow,Wright,60,female,36,0,no,Northumberland,13228.85
+22,Lily,Green,30,female,32.4,1,no,North Somerset,4149.74
+23,Freddie,Roberts,18,male,34.1,0,no,Hertfordshire,1137.01
+24,Evelyn,Evans,34,female,31.9,1,yes,Bedfordshire,37701.88
+25,Tommy,Turner,37,male,28,2,no,Cheshire,6203.9
+26,Grace,Johnson,59,female,27.7,3,no,Lancashire,14001.13
+27,Millie,Evans,63,female,23.1,0,no,Berkshire,14451.84
+28,Lily,Wright,55,female,32.8,2,no,Cumbria,12268.63
+29,Noah,Wright,23,male,17.4,1,no,Kent,2775.19
+30,Theodore,Williams,31,male,36.3,2,yes,North Somerset,38711
+31,Finley,Wright,22,male,35.6,0,yes,Herefordshire,35585.58
+32,Charlotte,Roberts,18,female,26.3,0,no,Kent,2198.19
+33,Lily,Wood,19,female,28.6,5,no,West Yorkshire,4687.8
+34,Theo,Clarke,63,male,28.3,0,no,County Durham,13770.1
+35,Oscar,Wood,28,male,36.4,1,yes,Hertfordshire,51194.56
+36,George,Clark,19,male,20.4,0,no,Tyne & Wear,1625.43
+37,Olivia,Taylor,62,female,33,3,no,Devon,15612.19
+38,Logan,Edwards,26,male,20.8,0,no,Berkshire,2302.3
+39,Oscar,Jackson,35,male,36.7,1,yes,North Somerset,39774.28
+40,Isaac,Hughes,60,male,39.9,0,yes,Cambridgeshire,48173.36
+41,Freya,Edwards,24,female,26.6,0,no,Norfolk,3046.06
+42,Phoebe,Hughes,31,female,36.6,2,no,North Yorkshire,4949.76
+43,Joshua,Martin,41,male,21.8,1,no,Devon,6272.48
+44,Millie,Robinson,37,female,30.8,2,no,West Sussex,6313.76
+45,Edward,Corbyn,38,male,37.1,1,no,Tyne & Wear,6079.67
+46,Logan,Jones,55,male,37.3,0,no,South Gloucestershire,20630.28
+47,Ella,Corbyn,18,female,38.7,2,no,Dorset,3393.36
+48,Isla,Hughes,28,female,34.8,0,no,Merseyside,3556.92
+49,Emily,Brown,60,female,24.5,0,no,Leicestershire,12629.9
+50,Oliver,Edwards,36,male,35.2,1,yes,East Sussex,38709.18
+51,Mia,Johnson,18,female,35.6,0,no,Lincolnshire,2211.13
+52,Elsie,Wood,21,female,33.6,2,no,Devon,3579.83
+53,Alexander,Thomas,48,male,28,1,yes,Kent,23568.27
+54,Thomas,Green,36,male,34.4,0,yes,Bristol,37742.58
+55,Daisy,Johnson,40,female,28.7,3,no,Cornwall,8059.68
+56,Oliver,Wright,58,male,37,2,yes,Cornwall,47496.49
+57,Phoebe,White,58,female,31.8,2,no,Shropshire,13607.37
+58,Freddie,Wilson,18,male,31.7,2,yes,Lancashire,34303.17
+59,Florence,Harris,53,female,22.9,1,yes,Tyne & Wear,23244.79
+60,Elsie,Thomas,34,female,37.3,2,no,South Yorkshire,5989.52
+61,Jacob,Brown,43,male,27.4,3,no,Rutland,8606.22
+62,Lucas,Roberts,25,male,33.7,4,no,Hertfordshire,4504.66
+63,Leo,Roberts,64,male,24.7,1,no,Bath and North East Somerset,30166.62
+64,Elsie,Wright,28,female,25.9,1,no,Cheshire,4133.64
+65,Sophia,Thompson,20,female,22.4,0,yes,Buckinghamshire,14711.74
+66,Maya,Hall,19,female,28.9,0,no,East Riding of Yorkshire,1743.21
+67,Daisy,Robinson,61,female,39.1,2,no,Bath and North East Somerset,14235.07
+68,George,Wilson,40,male,26.3,1,no,Cornwall,6389.38
+69,Freya,Robinson,40,female,36.2,0,no,Berkshire,5920.1
+70,Harry,Lewis,28,male,24,3,yes,Buckinghamshire,17663.14
+71,Poppy,Edwards,27,female,24.8,0,yes,Oxfordshire,16577.78
+72,Muhammad,Hughes,31,male,28.5,5,no,Warwickshire,6799.46
+73,Sophie,Smith,53,female,28.1,3,no,Isles of Scilly,11741.73
+74,Edward,Jackson,58,male,32,1,no,Hampshire,11946.63
+75,Max,Brown,44,male,27.4,2,no,Northumberland,7726.85
+76,Charlie,Edwards,57,male,34,0,no,Buckinghamshire,11356.66
+77,Sophia,Johnson,29,female,29.6,1,no,Greater Manchester,3947.41
+78,Leo,Jackson,21,male,35.5,0,no,Greater London,1532.47
+79,Sienna,Thomas,22,female,39.8,0,no,North Somerset,2755.02
+80,Millie,Jackson,41,female,33,0,no,Lancashire,6571.02
+81,George,White,31,male,26.9,1,no,County Durham,4441.21
+82,Maya,Turner,45,female,38.3,0,no,Cornwall,7935.29
+83,Joshua,Taylor,22,male,37.6,1,yes,Cambridgeshire,37165.16
+84,Evie,Clark,48,female,41.2,4,no,North Somerset,11033.66
+85,Lily,Edwards,37,female,34.8,2,yes,Warwickshire,39836.52
+86,Max,Davies,45,male,22.9,2,yes,Bath and North East Somerset,21098.55
+87,Maya,Brown,57,female,31.2,0,yes,Devon,43578.94
+88,Lily,Edwards,56,female,27.2,0,no,West Midlands,11073.18
+89,Ava,Green,46,female,27.7,0,no,Bedfordshire,8026.67
+90,Sophia,Wood,55,female,27,0,no,Greater London,11082.58
+91,Sofia,Robinson,21,female,39.5,0,no,Nottinghamshire,2026.97
+92,Sophia,Wood,53,female,24.8,1,no,North Somerset,10942.13
+93,Max,Jones,59,male,29.8,3,yes,Oxfordshire,30184.94
+94,Muhammad,Scott,35,male,34.8,2,no,Gloucestershire,5729.01
+95,Millie,Lewis,64,female,31.3,2,yes,Bedfordshire,47291.06
+96,Evelyn,Wright,28,female,37.6,1,no,Northumberland,3766.88
+97,Sofia,Taylor,54,female,30.8,3,no,Cheshire,12105.32
+98,Oliver,Edwards,55,male,38.3,0,no,Rutland,10226.28
+99,Freddie,Johnson,56,male,20,0,yes,Essex,22412.65
+100,George,Edwards,38,male,19.3,0,yes,Dorset,15820.7
+101,Maya,Corbyn,41,female,31.6,0,no,Leicestershire,6186.13
+102,Leo,Robinson,30,male,25.5,0,no,Isles of Scilly,3645.09
+103,Charlotte,Johnson,18,female,30.1,0,no,Kent,21344.85
+104,Poppy,Harris,61,female,29.9,3,yes,Cheshire,30942.19
+105,Daisy,Corbyn,34,female,27.5,1,no,Hampshire,5003.85
+106,Freddie,Taylor,20,male,28,1,yes,West Yorkshire,17560.38
+107,Mia,Thompson,19,female,28.4,1,no,Devon,2331.52
+108,Tommy,Clark,26,male,30.9,2,no,Norfolk,3877.3
+109,Edward,Davies,29,male,27.9,0,no,South Yorkshire,2867.12
+110,Noah,Scott,63,male,35.1,0,yes,Northumberland,47055.53
+111,Finley,Clarke,54,male,33.6,1,no,Greater Manchester,10825.25
+112,Matilda,Taylor,55,female,29.7,2,no,Isles of Scilly,11881.36
+113,Oscar,Clark,37,male,30.8,0,no,Cheshire,4646.76
+114,Rosie,Hughes,21,female,35.7,0,no,Cumbria,2404.73
+115,Noah,Smith,52,male,32.2,3,no,Gloucestershire,11488.32
+116,George,Robinson,60,male,28.6,0,no,Cheshire,30260
+117,William,Turner,58,male,49.1,0,no,Devon,11381.33
+118,Freya,Smith,29,female,27.9,1,yes,Northamptonshire,19107.78
+119,Grace,Clarke,49,female,27.2,0,no,Bristol,8601.33
+120,Harper,Wood,37,female,23.4,2,no,Merseyside,6686.43
+121,Leo,Hall,44,male,37.1,2,no,County Durham,7740.34
+122,Alfie,Johnson,18,male,23.8,0,no,Bath and North East Somerset,1705.62
+123,Elsie,Hall,20,female,29,0,no,Bath and North East Somerset,2257.48
+124,Leo,Corbyn,44,male,31.4,1,yes,Warwickshire,39556.49
+125,Phoebe,Johnson,47,female,33.9,3,no,South Yorkshire,10115.01
+126,Emily,Clarke,26,female,28.8,0,no,Isles of Scilly,3385.4
+127,Daisy,Roberts,19,female,28.3,0,yes,Somerset,17081.08
+128,Willow,White,52,female,37.4,0,no,Oxfordshire,9634.54
+129,Maya,Scott,32,female,17.8,2,yes,Cornwall,32734.19
+130,Oliver,Smith,38,male,34.7,2,no,Suffolk,6082.41
+131,Evelyn,Wood,59,female,26.5,0,no,Rutland,12815.44
+132,Sophia,Wood,61,female,22,0,no,Bedfordshire,13616.36
+133,Ivy,Wilson,53,female,35.9,2,no,Kent,11163.57
+134,Oscar,Davies,19,male,25.6,0,no,Greater London,1632.56
+135,Sofia,Green,20,female,28.8,0,no,Northumberland,2457.21
+136,Emily,Harris,22,female,28.1,0,no,Isles of Scilly,2155.68
+137,Harry,Wood,19,male,34.1,0,no,Surrey,1261.44
+138,Alfie,Turner,22,male,25.2,0,no,Suffolk,2045.69
+139,Willow,Wilson,54,female,31.9,3,no,Surrey,27322.73
+140,Daisy,Harris,22,female,36,0,no,Cornwall,2166.73
+141,Arthur,Smith,34,male,22.4,2,no,Gloucestershire,27375.9
+142,Oscar,Wood,26,male,32.5,1,no,West Yorkshire,3490.55
+143,Alfie,Walker,34,male,25.3,2,yes,Hertfordshire,18972.5
+144,Finley,Turner,29,male,29.7,2,no,Tyne & Wear,18157.88
+145,Ethan,Scott,30,male,28.7,3,yes,South Gloucestershire,20745.99
+146,Florence,Jackson,29,female,38.8,3,no,East Riding of Yorkshire,5138.26
+147,Ethan,Edwards,46,male,30.5,3,yes,Lancashire,40720.55
+148,Rosie,Jackson,51,female,37.7,1,no,Hampshire,9877.61
+149,Isabella,Scott,53,female,37.4,1,no,East Riding of Yorkshire,10959.69
+150,Noah,Johnson,19,male,28.4,1,no,Kent,1842.52
+151,Leo,Evans,35,male,24.1,1,no,Isles of Scilly,5125.22
+152,Noah,Corbyn,48,male,29.7,0,no,West Yorkshire,7789.64
+153,Maya,Scott,32,female,37.1,3,no,Surrey,6334.34
+154,Florence,Robinson,42,female,23.4,0,yes,Isles of Scilly,19964.75
+155,Phoebe,Johnson,40,female,25.5,1,no,South Gloucestershire,7077.19
+156,Isaac,Jones,44,male,39.5,0,no,Nottinghamshire,6948.7
+157,Theodore,Harris,48,male,24.4,0,yes,Lincolnshire,21223.68
+158,James,Robinson,18,male,25.2,0,yes,Northumberland,15518.18
+159,Tommy,Hall,30,male,35.5,0,yes,Norfolk,36950.26
+160,Emily,Roberts,50,female,27.8,3,no,West Sussex,19749.38
+161,Charlotte,Evans,42,female,26.6,0,yes,Leicestershire,21348.71
+162,Matilda,Lewis,18,female,36.9,0,yes,Bedfordshire,36149.48
+163,Theodore,Thompson,54,male,39.6,1,no,Herefordshire,10450.55
+164,Ivy,Wright,32,female,29.8,2,no,East Sussex,5152.13
+165,Arthur,Clarke,37,male,29.6,0,no,Nottinghamshire,5028.15
+166,Muhammad,Walker,47,male,28.2,4,no,Bedfordshire,10407.09
+167,Evelyn,Hughes,20,female,37,5,no,Oxfordshire,4830.63
+168,Daisy,Wright,32,female,33.2,3,no,Isles of Scilly,6128.8
+169,Harper,Thomas,19,female,31.8,1,no,Northumberland,2719.28
+170,Leo,Walker,27,male,18.9,3,no,Merseyside,4827.9
+171,Alfie,Clark,63,male,41.5,0,no,North Yorkshire,13405.39
+172,George,Smith,49,male,30.3,0,no,Bristol,8116.68
+173,Archie,Hall,18,male,16,0,no,Dorset,1694.8
+174,Ella,Martin,35,female,34.8,1,no,Rutland,5246.05
+175,Amelia,Johnson,24,female,33.3,0,no,Lancashire,2855.44
+176,Matilda,Walker,63,female,37.7,0,yes,Bedfordshire,48824.45
+177,Jacob,Scott,38,male,27.8,2,no,Northamptonshire,6455.86
+178,George,Johnson,54,male,29.2,1,no,Bath and North East Somerset,10436.1
+179,Evie,Walker,46,female,28.9,2,no,Oxfordshire,8823.28
+180,Matilda,Green,41,female,33.2,3,no,Somerset,8538.29
+181,Logan,Martin,58,male,28.6,0,no,Merseyside,11735.88
+182,Evelyn,Wright,18,female,38.3,0,no,South Yorkshire,1631.82
+183,Alexander,Brown,22,male,20,3,no,Rutland,4005.42
+184,Florence,Jackson,44,female,26.4,0,no,West Yorkshire,7419.48
+185,Edward,Jackson,44,male,30.7,2,no,West Sussex,7731.43
+186,Oscar,Hughes,36,male,41.9,3,yes,East Sussex,43753.34
+187,Matilda,Scott,26,female,29.9,2,no,Staffordshire,3981.98
+188,Freya,Thompson,30,female,30.9,3,no,North Yorkshire,5325.65
+189,Millie,Walker,41,female,32.2,1,no,Dorset,6775.96
+190,Evie,Hughes,29,female,32.1,2,no,Isles of Scilly,4922.92
+191,Lucas,Thomas,61,male,31.6,0,no,Greater Manchester,12557.61
+192,Maya,Clarke,36,female,26.2,0,no,Warwickshire,4883.87
+193,Jacob,Clarke,25,male,25.7,0,no,Suffolk,2137.65
+194,Rosie,Walker,56,female,26.6,1,no,Bath and North East Somerset,12044.34
+195,James,Clarke,18,male,34.4,0,no,Cambridgeshire,1137.47
+196,Oscar,Edwards,19,male,30.6,0,no,Essex,1639.56
+197,Lily,Smith,39,female,32.8,0,no,Greater London,5649.72
+198,Sophia,Martin,45,female,28.6,2,no,Berkshire,8516.83
+199,Millie,Jackson,51,female,18.1,0,no,Dorset,9644.25
+200,Mia,Corbyn,64,female,39.3,0,no,Derbyshire,14901.52
+201,Sofia,Martin,19,female,32.1,0,no,Surrey,2130.68
+202,Amelia,Hughes,48,female,32.2,1,no,Bedfordshire,8871.15
+203,Lily,Thompson,60,female,24,0,no,Dorset,13012.21
+204,Isabella,Robinson,27,female,36.1,0,yes,Greater London,37133.9
+205,George,Lewis,46,male,22.3,0,no,Isles of Scilly,7147.11
+206,Willow,Smith,28,female,28.9,1,no,East Riding of Yorkshire,4337.74
+207,Alfie,Davies,59,male,26.4,0,no,West Yorkshire,11743.3
+208,Thomas,Clarke,35,male,27.7,2,yes,West Yorkshire,20984.09
+209,Sienna,Johnson,63,female,31.8,0,no,East Sussex,13880.95
+210,Noah,Scott,40,male,41.2,1,no,Greater Manchester,6610.11
+211,Charlie,Williams,20,male,33,1,no,Lincolnshire,1980.07
+212,Theodore,Taylor,40,male,30.9,4,no,Derbyshire,8162.72
+213,Leo,Harris,24,male,28.5,2,no,East Riding of Yorkshire,3537.7
+214,Harper,Wright,34,female,26.7,1,no,Hertfordshire,5002.78
+215,Florence,Roberts,45,female,30.9,2,no,Cheshire,8520.03
+216,Maya,Clarke,41,female,37.1,2,no,Oxfordshire,7371.77
+217,Florence,Walker,53,female,26.6,0,no,Lancashire,10355.64
+218,Harry,Turner,27,male,23.1,0,no,Greater London,2483.74
+219,Sophia,Clark,26,female,29.9,1,no,Shropshire,3392.98
+220,Mia,Hughes,24,female,23.2,0,no,Gloucestershire,25081.77
+221,Isabella,Williams,34,female,33.7,1,no,Tyne & Wear,5012.47
+222,Sophie,Scott,53,female,33.3,0,no,Shropshire,10564.88
+223,Isaac,Johnson,32,male,30.8,3,no,East Sussex,5253.52
+224,Logan,Harris,19,male,34.8,0,yes,Greater London,34779.62
+225,Joshua,Clarke,42,male,24.6,0,yes,Derbyshire,19515.54
+226,Joshua,Williams,55,male,33.9,3,no,Isles of Scilly,11987.17
+227,Alexander,Johnson,28,male,38.1,0,no,Somerset,2689.5
+228,Olivia,Corbyn,58,female,41.9,0,no,Northamptonshire,24227.34
+229,Ivy,Wright,41,female,31.6,1,no,Surrey,7358.18
+230,Freddie,Scott,47,male,25.5,2,no,Tyne & Wear,9225.26
+231,Isabella,Taylor,42,female,36.2,1,no,Berkshire,7443.64
+232,Amelia,Davies,59,female,27.8,3,no,North Yorkshire,14001.29
+233,Lily,Smith,19,female,17.8,0,no,Dorset,1727.79
+234,Joshua,Davies,59,male,27.5,1,no,Cheshire,12333.83
+235,Charlie,Wilson,39,male,24.5,2,no,Hertfordshire,6710.19
+236,Mia,Scott,40,female,22.2,2,yes,Rutland,19444.27
+237,Isabella,Green,18,female,26.7,0,no,North Somerset,1615.77
+238,Thomas,White,31,male,38.4,2,no,Bath and North East Somerset,4463.21
+239,Alfie,Wright,19,male,29.1,0,yes,Northumberland,17352.68
+240,Edward,Hughes,44,male,38.1,1,no,Dorset,7152.67
+241,Olivia,Wilson,23,female,36.7,2,yes,Devon,38511.63
+242,Sofia,Davies,33,female,22.1,1,no,Kent,5354.07
+243,Sophie,Corbyn,55,female,26.8,1,no,Isle of Wight,35160.13
+244,Finley,Corbyn,40,male,35.3,3,no,Northumberland,7196.87
+245,Isla,Taylor,63,female,27.7,0,yes,Herefordshire,29523.17
+246,William,Corbyn,54,male,30,0,no,Wiltshire,24476.48
+247,Amelia,Clarke,60,female,38.1,0,no,Hertfordshire,12648.7
+248,George,Smith,24,male,35.9,0,no,West Sussex,1986.93
+249,Archie,Clark,19,male,20.9,1,no,Devon,1832.09
+250,Isaac,Walker,29,male,29,1,no,Somerset,4040.56
+251,Isaac,Jackson,18,male,17.3,2,yes,Worcestershire,12829.46
+252,Phoebe,Wood,63,female,32.2,2,yes,Cornwall,47305.31
+253,Ethan,Corbyn,54,male,34.2,2,yes,Derbyshire,44260.75
+254,Logan,Clark,27,male,30.3,3,no,Norfolk,4260.74
+255,Leo,Clark,50,male,31.8,0,yes,Suffolk,41097.16
+256,Isla,Hall,55,female,25.4,3,no,Rutland,13047.33
+257,George,Thompson,56,male,33.6,0,yes,Rutland,43921.18
+258,Rosie,Jackson,38,female,40.2,0,no,Shropshire,5400.98
+259,Isaac,Thomas,51,male,24.4,4,no,Suffolk,11520.1
+260,James,Scott,19,male,31.9,0,yes,West Midlands,33750.29
+261,Sophie,Turner,58,female,25.2,0,no,County Durham,11837.16
+262,Millie,Walker,20,female,26.8,1,yes,County Durham,17085.27
+263,Muhammad,Walker,52,male,24.3,3,yes,South Gloucestershire,24869.84
+264,Muhammad,Wilson,19,male,37,0,yes,Devon,36219.41
+265,Daisy,Roberts,53,female,38.1,3,no,Nottinghamshire,20463
+266,Henry,Wood,46,male,42.4,3,yes,Devon,46151.12
+267,George,Wright,40,male,19.8,1,yes,West Sussex,17179.52
+268,Isla,Edwards,59,female,32.4,3,no,Essex,14590.63
+269,Archie,Roberts,45,male,30.2,1,no,Devon,7441.05
+270,Theodore,Martin,49,male,25.8,1,no,Worcestershire,9282.48
+271,Ethan,Wood,18,male,29.4,1,no,Worcestershire,1719.44
+272,Oscar,Thomas,50,male,34.2,2,yes,West Midlands,42856.84
+273,Henry,Green,41,male,37.1,2,no,Worcestershire,7265.7
+274,Alexander,Clarke,50,male,27.5,1,no,Greater London,9617.66
+275,Henry,Jones,25,male,27.6,0,no,Kent,2523.17
+276,Millie,Clarke,47,female,26.6,2,no,Isles of Scilly,9715.84
+277,Oliver,Lewis,19,male,20.6,2,no,Bedfordshire,2803.7
+278,Poppy,Martin,22,female,24.3,0,no,Northumberland,2150.47
+279,Thomas,Corbyn,59,male,31.8,2,no,Oxfordshire,12928.79
+280,Poppy,Green,51,female,21.6,1,no,South Yorkshire,9855.13
+281,Evelyn,Wright,40,female,28.1,1,yes,West Midlands,22331.57
+282,Tommy,Davies,54,male,40.6,3,yes,Rutland,48549.18
+283,Leo,Edwards,30,male,27.6,1,no,Gloucestershire,4237.13
+284,Sophie,Wilson,55,female,32.4,1,no,North Somerset,11879.1
+285,Sophia,Clark,52,female,31.2,0,no,South Gloucestershire,9625.92
+286,Lucas,Wood,46,male,26.6,1,no,Somerset,7742.11
+287,Isla,Corbyn,46,female,48.1,2,no,Herefordshire,9432.93
+288,Ava,Jones,63,female,26.2,0,no,Lincolnshire,14256.19
+289,Maya,Hall,59,female,36.8,1,yes,Suffolk,47896.79
+290,James,Smith,52,male,26.4,3,no,Nottinghamshire,25992.82
+291,Ivy,Hall,28,female,33.4,0,no,Gloucestershire,3172.02
+292,Edward,Hughes,29,male,29.6,1,no,West Yorkshire,20277.81
+293,Theodore,Wilson,25,male,45.5,2,yes,Oxfordshire,42112.24
+294,Willow,Jones,22,female,28.8,0,no,Dorset,2156.75
+295,William,Jones,25,male,26.8,3,no,Kent,3906.13
+296,Henry,Hughes,18,male,23,0,no,Greater London,1704.57
+297,Ethan,Johnson,19,male,27.7,0,yes,Cheshire,16297.85
+298,Jacob,Walker,47,male,25.4,1,yes,Warwickshire,21978.68
+299,Jacob,Hall,31,male,34.4,3,yes,Herefordshire,38746.36
+300,Mia,Martin,48,female,28.9,1,no,Suffolk,9249.5
+301,Max,Clarke,36,male,27.6,3,no,Staffordshire,6746.74
+302,Florence,Thompson,53,female,22.6,3,yes,Hampshire,24873.38
+303,Grace,Wilson,56,female,37.5,2,no,Cumbria,12265.51
+304,Sophia,Edwards,28,female,33,2,no,Cornwall,4349.46
+305,Sophia,Williams,57,female,38,2,no,Hertfordshire,12646.21
+306,James,Evans,29,male,33.3,2,no,South Gloucestershire,19442.35
+307,Millie,Johnson,28,female,27.5,2,no,Northamptonshire,20177.67
+308,Grace,Scott,30,female,33.3,1,no,Surrey,4151.03
+309,Jacob,Clarke,58,male,34.9,0,no,Wiltshire,11944.59
+310,Matilda,Thompson,41,female,33.1,2,no,Worcestershire,7749.16
+311,George,Brown,50,male,26.6,0,no,East Sussex,8444.47
+312,Poppy,White,19,female,24.7,0,no,Gloucestershire,1737.38
+313,Tommy,Williams,43,male,36,3,yes,Somerset,42124.52
+314,William,Wright,49,male,35.9,0,no,South Yorkshire,8124.41
+315,Olivia,Thomas,27,female,31.4,0,yes,Herefordshire,34838.87
+316,Thomas,Wright,52,male,33.3,0,no,Nottinghamshire,9722.77
+317,Archie,Turner,50,male,32.2,0,no,South Yorkshire,8835.26
+318,Logan,Edwards,54,male,32.8,0,no,West Sussex,10435.07
+319,Rosie,Evans,44,female,27.6,0,no,Lincolnshire,7421.19
+320,Oliver,Green,32,male,37.3,1,no,Somerset,4667.61
+321,Theo,Davies,34,male,25.3,1,no,Northamptonshire,4894.75
+322,Matilda,Jackson,26,female,29.6,4,no,South Gloucestershire,24671.66
+323,Harry,Wood,34,male,30.8,0,yes,Norfolk,35491.64
+324,Jack,Martin,57,male,40.9,0,no,Buckinghamshire,11566.3
+325,George,Jackson,29,male,27.2,0,no,Buckinghamshire,2866.09
+326,Edward,Corbyn,40,male,34.1,1,no,Bristol,6600.21
+327,Olivia,Wood,27,female,23.2,1,no,Buckinghamshire,3561.89
+328,Henry,Lewis,45,male,36.5,2,yes,Greater London,42760.5
+329,Sophia,Thomas,64,female,33.8,1,yes,Dorset,47928.03
+330,Isaac,Lewis,52,male,36.7,0,no,East Sussex,9144.57
+331,Maya,Jackson,61,female,36.4,1,yes,Cheshire,48517.56
+332,Logan,Clarke,52,male,27.4,0,yes,West Sussex,24393.62
+333,Daisy,Wright,61,female,31.2,0,no,Somerset,13429.04
+334,Maya,Taylor,56,female,28.8,0,no,County Durham,11658.38
+335,Daisy,Thompson,43,female,35.7,2,no,Dorset,19144.58
+336,Theo,Corbyn,64,male,34.5,0,no,North Somerset,13822.8
+337,Ethan,Edwards,60,male,25.7,0,no,Worcestershire,12142.58
+338,Theo,Davies,62,male,27.6,1,no,East Sussex,13937.67
+339,Logan,Clark,50,male,32.3,1,yes,Wiltshire,41919.1
+340,Sofia,Jones,46,female,27.7,1,no,Bristol,8232.64
+341,Grace,Thompson,24,female,27.6,0,no,Lincolnshire,18955.22
+342,Muhammad,Harris,62,male,30,0,no,Isles of Scilly,13352.1
+343,Maya,Edwards,60,female,27.6,0,no,Derbyshire,13217.09
+344,Charlie,Wood,63,male,36.8,0,no,South Yorkshire,13981.85
+345,Harper,Jackson,49,female,41.5,4,no,Gloucestershire,10977.21
+346,Sophie,Smith,34,female,29.3,3,no,South Yorkshire,6184.3
+347,Jack,Johnson,33,male,35.8,2,no,North Somerset,4890
+348,Archie,Lewis,46,male,33.3,1,no,Berkshire,8334.46
+349,Isla,Hughes,36,female,29.9,1,no,Essex,5478.04
+350,Ethan,Wright,19,male,27.8,0,no,Tyne & Wear,1635.73
+351,Amelia,Harris,57,female,23.2,0,no,West Yorkshire,11830.61
+352,Sofia,Harris,50,female,25.6,0,no,Worcestershire,8932.08
+353,Olivia,Hughes,30,female,27.7,0,no,Greater Manchester,3554.2
+354,Arthur,Clark,33,male,35.2,0,no,Northumberland,12404.88
+355,Matilda,Green,18,female,38.3,0,no,Northumberland,14133.04
+356,Isaac,Thomas,46,male,27.6,0,no,Greater Manchester,24603.05
+357,Ethan,Davies,46,male,43.9,3,no,Hampshire,8944.12
+358,Theodore,Robinson,47,male,29.8,3,no,Norfolk,9620.33
+359,Max,Walker,23,male,41.9,0,no,Buckinghamshire,1837.28
+360,Elsie,Turner,18,female,20.8,0,no,Shropshire,1607.51
+361,Evelyn,Hughes,48,female,32.3,2,no,North Somerset,10043.25
+362,Joshua,Corbyn,35,male,30.5,1,no,West Yorkshire,4751.07
+363,Evie,Hughes,19,female,21.7,0,yes,West Yorkshire,13844.51
+364,Phoebe,Hughes,21,female,26.4,1,no,Isles of Scilly,2597.78
+365,Emily,Davies,21,female,21.9,2,no,Leicestershire,3180.51
+366,Grace,Williams,49,female,30.8,1,no,West Midlands,9778.35
+367,Lily,Harris,56,female,32.3,3,no,Tyne & Wear,13430.27
+368,Freya,Robinson,42,female,25,2,no,Oxfordshire,8017.06
+369,Theo,Clarke,44,male,32,2,no,Staffordshire,8116.27
+370,Ethan,Davies,18,male,30.4,3,no,Lincolnshire,3481.87
+371,Freya,Martin,61,female,21.1,0,no,Bristol,13415.04
+372,Isla,Jackson,57,female,22.2,0,no,Berkshire,12029.29
+373,Poppy,Roberts,42,female,33.2,1,no,Derbyshire,7639.42
+374,Harry,Clark,26,male,32.9,2,yes,Cumbria,36085.22
+375,Charlie,Jones,20,male,33.3,0,no,Lincolnshire,1391.53
+376,Willow,Robinson,23,female,28.3,0,yes,Northumberland,18033.97
+377,Rosie,Brown,39,female,24.9,3,yes,Staffordshire,21659.93
+378,Oliver,Clarke,24,male,40.2,0,yes,Herefordshire,38126.25
+379,Evelyn,Smith,64,female,30.1,3,no,Cambridgeshire,16455.71
+380,Thomas,Evans,62,male,31.5,1,no,Cornwall,27000.98
+381,Evelyn,Roberts,27,female,18,2,yes,Hampshire,15006.58
+382,Charlie,Taylor,55,male,30.7,0,yes,West Yorkshire,42303.69
+383,Jacob,Green,55,male,33,0,no,Cumbria,20781.49
+384,Mia,Lewis,35,female,43.3,2,no,East Riding of Yorkshire,5846.92
+385,George,Clarke,44,male,22.1,2,no,Oxfordshire,8302.54
+386,Jacob,Lewis,19,male,34.4,0,no,North Somerset,1261.86
+387,Harper,Thomas,58,female,39.1,0,no,Somerset,11856.41
+388,Muhammad,Wilson,50,male,25.4,2,no,Kent,30284.64
+389,Isabella,Roberts,26,female,22.6,0,no,Shropshire,3176.82
+390,Willow,Smith,24,female,30.2,3,no,Dorset,4618.08
+391,Leo,Clarke,48,male,35.6,4,no,Merseyside,10736.87
+392,Maya,Hughes,19,female,37.4,0,no,Warwickshire,2138.07
+393,Arthur,Jackson,48,male,31.4,1,no,Greater London,8964.06
+394,Noah,Corbyn,49,male,31.4,1,no,Merseyside,9290.14
+395,Olivia,Clark,46,female,32.3,2,no,Cheshire,9411.01
+396,Lucas,Martin,46,male,19.9,0,no,West Midlands,7526.71
+397,Evie,Martin,43,female,34.4,3,no,Cheshire,8522
+398,Theodore,Green,21,male,31,0,no,Somerset,16586.5
+399,Freddie,Williams,64,male,25.6,2,no,Lancashire,14988.43
+400,Olivia,Corbyn,18,female,38.2,0,no,Surrey,1631.67
+401,Isabella,Hughes,51,female,20.6,0,no,Greater Manchester,9264.8
+402,Tommy,Davies,47,male,47.5,1,no,Nottinghamshire,8083.92
+403,Mia,Lewis,64,female,33,0,no,West Yorkshire,14692.67
+404,Alfie,Corbyn,49,male,32.3,3,no,Greater Manchester,10269.46
+405,Lucas,Roberts,31,male,20.4,0,no,Lancashire,3260.2
+406,Olivia,Lewis,52,female,38.4,2,no,Isles of Scilly,11396.9
+407,Lily,Robinson,33,female,24.3,0,no,Norfolk,4185.1
+408,Lily,White,47,female,23.6,1,no,Hertfordshire,8539.67
+409,Noah,Brown,38,male,21.1,3,no,Merseyside,6652.53
+410,Logan,Harris,32,male,30,1,no,Hertfordshire,4074.45
+411,Leo,Thompson,19,male,17.5,0,no,Suffolk,1621.34
+412,Isla,Brown,44,female,20.2,1,yes,North Somerset,19594.81
+413,Sophie,Wood,26,female,17.2,2,yes,Bristol,14455.64
+414,James,Hughes,25,male,23.9,5,no,Northamptonshire,5080.1
+415,Isabella,Walker,19,female,35.2,0,no,Shropshire,2134.9
+416,Willow,Clarke,43,female,35.6,1,no,East Riding of Yorkshire,7345.73
+417,Jacob,Hughes,52,male,34.1,0,no,Surrey,9140.95
+418,Charlotte,Johnson,36,female,22.6,2,yes,Hertfordshire,18608.26
+419,Leo,Green,64,male,39.2,1,no,Hertfordshire,14418.28
+420,Rosie,Lewis,63,female,27,0,yes,Bath and North East Somerset,28950.47
+421,George,Davies,64,male,33.9,0,yes,North Yorkshire,46889.26
+422,Freddie,Jackson,61,male,35.9,0,yes,Shropshire,46599.11
+423,Thomas,Thomas,40,male,32.8,1,yes,East Sussex,39125.33
+424,James,Wright,25,male,30.6,0,no,West Yorkshire,2727.4
+425,Thomas,Scott,48,male,30.2,2,no,Buckinghamshire,8968.33
+426,Alexander,Scott,45,male,24.3,5,no,South Gloucestershire,9788.87
+427,Lily,Green,38,female,27.3,1,no,Hertfordshire,6555.07
+428,Grace,Harris,18,female,29.2,0,no,Buckinghamshire,7323.73
+429,Daisy,Hughes,21,female,16.8,1,no,South Yorkshire,3167.46
+430,Evie,Thompson,27,female,30.4,3,no,North Yorkshire,18804.75
+431,Muhammad,Wilson,19,male,33.1,0,no,Worcestershire,23082.96
+432,Daisy,Jones,29,female,20.2,2,no,East Riding of Yorkshire,4906.41
+433,Oliver,Martin,42,male,26.9,0,no,Greater London,5969.72
+434,Freya,Robinson,60,female,30.5,0,no,Gloucestershire,12638.2
+435,Henry,Clark,31,male,28.6,1,no,Greater Manchester,4243.59
+436,Alexander,Smith,60,male,33.1,3,no,Berkshire,13919.82
+437,Charlie,Wood,22,male,31.7,0,no,Rutland,2254.8
+438,Lucas,Walker,35,male,28.9,3,no,Rutland,5926.85
+439,Sofia,Wood,52,female,46.8,5,no,Surrey,12592.53
+440,William,Hall,26,male,29.5,0,no,Cheshire,2897.32
+441,Willow,White,31,female,32.7,1,no,South Yorkshire,4738.27
+442,Evie,Martin,33,female,33.5,0,yes,Lincolnshire,37079.37
+443,Tommy,Hughes,18,male,43,0,no,Worcestershire,1149.4
+444,Ava,Green,59,female,36.5,1,no,South Yorkshire,28287.9
+445,Jack,Clarke,56,male,26.7,1,yes,Rutland,26109.33
+446,Mia,Martin,45,female,33.1,0,no,North Somerset,7345.08
+447,Isaac,Wood,60,male,29.6,0,no,North Somerset,12731
+448,Olivia,Williams,56,female,25.7,0,no,Rutland,11454.02
+449,Grace,Evans,40,female,29.6,0,no,Surrey,5910.94
+450,Joshua,Martin,35,male,38.6,1,no,Isles of Scilly,4762.33
+451,Freddie,Martin,39,male,29.6,4,no,County Durham,7512.27
+452,Noah,Jones,30,male,24.1,1,no,Leicestershire,4032.24
+453,Isaac,Wright,24,male,23.4,0,no,Buckinghamshire,1969.61
+454,Freddie,Thompson,20,male,29.7,0,no,Buckinghamshire,1769.53
+455,Theo,Davies,32,male,46.5,2,no,South Yorkshire,4686.39
+456,Archie,White,59,male,37.4,0,no,Merseyside,21797
+457,Ella,Martin,55,female,30.1,2,no,Lincolnshire,11881.97
+458,Grace,Clark,57,female,30.5,0,no,Merseyside,11840.78
+459,Logan,Wilson,56,male,39.6,0,no,Merseyside,10601.41
+460,Phoebe,Robinson,40,female,33,3,no,Herefordshire,7682.67
+461,Elsie,Walker,49,female,36.6,3,no,East Sussex,10381.48
+462,Thomas,Thompson,42,male,30,0,yes,Bristol,22144.03
+463,Matilda,Thomas,62,female,38.1,2,no,Lincolnshire,15230.32
+464,Muhammad,Walker,56,male,25.9,0,no,Cheshire,11165.42
+465,Oscar,Clarke,19,male,25.2,0,no,Greater London,1632.04
+466,Maya,Taylor,30,female,28.4,1,yes,North Somerset,19521.97
+467,Maya,Brown,60,female,28.7,1,no,Bath and North East Somerset,13224.69
+468,Ella,Corbyn,56,female,33.8,2,no,North Yorkshire,12643.38
+469,Sofia,Wood,28,female,24.3,1,no,Greater Manchester,23288.93
+470,Harper,Williams,18,female,24.1,1,no,Greater London,2201.1
+471,Noah,Taylor,27,male,32.7,0,no,Essex,2497.04
+472,Evie,Lewis,18,female,30.1,0,no,Rutland,2203.47
+473,Ava,Thompson,19,female,29.8,0,no,Bedfordshire,1744.47
+474,Olivia,Corbyn,47,female,33.3,0,no,North Yorkshire,20878.78
+475,James,Wright,54,male,25.1,3,yes,Cheshire,25382.3
+476,Leo,Lewis,61,male,28.3,1,yes,Devon,28868.66
+477,Alfie,Jackson,24,male,28.5,0,yes,Herefordshire,35147.53
+478,Charlie,Hughes,25,male,35.6,0,no,Bristol,2534.39
+479,Jacob,Edwards,21,male,36.9,0,no,Rutland,1534.3
+480,Alexander,Taylor,23,male,32.6,0,no,Berkshire,1824.29
+481,Thomas,Smith,63,male,41.3,3,no,Dorset,15555.19
+482,Muhammad,Thomas,49,male,37.5,2,no,South Yorkshire,9304.7
+483,Mia,Davies,18,female,31.4,0,no,Bedfordshire,1622.19
+484,Olivia,Davies,51,female,39.5,1,no,Oxfordshire,9880.07
+485,Jacob,Clarke,48,male,34.3,3,no,Nottinghamshire,9563.03
+486,Grace,Edwards,31,female,31.1,0,no,Leicestershire,4347.02
+487,Amelia,Evans,54,female,21.5,3,no,Lincolnshire,12475.35
+488,Tommy,Green,19,male,28.7,0,no,East Sussex,1253.94
+489,Mia,Edwards,44,female,38.1,0,yes,Buckinghamshire,48885.14
+490,Henry,Hughes,53,male,31.2,1,no,Dorset,10461.98
+491,Lily,Wright,19,female,32.9,0,no,Gloucestershire,1748.77
+492,Ella,White,61,female,25.1,0,no,North Somerset,24513.09
+493,Evelyn,Wood,18,female,25.1,0,no,Leicestershire,2196.47
+494,Ethan,Green,61,male,43.4,0,no,Kent,12574.05
+495,Henry,Wright,21,male,25.7,4,yes,Greater London,17942.11
+496,Freddie,Thomas,20,male,27.9,0,no,Isles of Scilly,1967.02
+497,Sienna,Brown,31,female,23.6,2,no,West Yorkshire,4931.65
+498,Muhammad,Brown,45,male,28.7,2,no,Kent,8027.97
+499,Maya,Clark,44,female,24,2,no,West Sussex,8211.1
+500,Ava,Smith,62,female,39.2,0,no,Tyne & Wear,13470.86
+501,Oscar,Roberts,29,male,34.4,0,yes,Greater London,36197.7
+502,Finley,Turner,43,male,26,0,no,Oxfordshire,6837.37
+503,Isaac,Robinson,51,male,23.2,1,yes,Surrey,22218.11
+504,Isaac,Hughes,19,male,30.3,0,yes,Bath and North East Somerset,32548.34
+505,Charlotte,Turner,38,female,28.9,1,no,Isle of Wight,5974.38
+506,Max,Hall,37,male,30.9,3,no,Leicestershire,6796.86
+507,George,Clark,22,male,31.4,1,no,Gloucestershire,2643.27
+508,James,Johnson,21,male,23.8,2,no,Cheshire,3077.1
+509,Evelyn,Taylor,24,female,25.3,0,no,Northamptonshire,3044.21
+510,Mia,Lewis,57,female,28.7,0,no,Tyne & Wear,11455.28
+511,Oscar,Taylor,56,male,32.1,1,no,West Midlands,11763
+512,James,Martin,27,male,33.7,0,no,Lancashire,2498.41
+513,Jack,Wilson,51,male,22.4,0,no,Bath and North East Somerset,9361.33
+514,Alexander,Johnson,19,male,30.4,0,no,Gloucestershire,1256.3
+515,Jacob,Wright,39,male,28.3,1,yes,Isle of Wight,21082.16
+516,George,Turner,58,male,35.7,0,no,North Somerset,11362.76
+517,Oscar,Clarke,20,male,35.3,1,no,West Midlands,27724.29
+518,Muhammad,Corbyn,45,male,30.5,2,no,Greater Manchester,8413.46
+519,Isabella,Green,35,female,31,1,no,North Somerset,5240.77
+520,Theodore,Edwards,31,male,30.9,0,no,West Midlands,3857.76
+521,Evie,Thomas,50,female,27.4,0,no,South Yorkshire,25656.58
+522,Mia,Jackson,32,female,44.2,0,no,Bristol,3994.18
+523,Sophia,Evans,51,female,33.9,0,no,County Durham,9866.3
+524,Olivia,Wood,38,female,37.7,0,no,Norfolk,5397.62
+525,William,Williams,42,male,26.1,1,yes,Greater London,38245.59
+526,Ella,Edwards,18,female,33.9,0,no,Tyne & Wear,11482.63
+527,Mia,Wright,19,female,30.6,2,no,East Riding of Yorkshire,24059.68
+528,Evie,Wright,51,female,25.8,1,no,West Yorkshire,9861.03
+529,Jacob,Jackson,46,male,39.4,1,no,Tyne & Wear,8342.91
+530,Muhammad,Clarke,18,male,25.5,0,no,Northumberland,1708
+531,Archie,Johnson,57,male,42.1,1,yes,Isles of Scilly,48675.52
+532,Ava,Johnson,62,female,31.7,0,no,Bristol,14043.48
+533,Joshua,Wood,59,male,29.7,2,no,Buckinghamshire,12925.89
+534,Oscar,Smith,37,male,36.2,0,no,Leicestershire,19214.71
+535,William,White,64,male,40.5,0,no,Wiltshire,13831.12
+536,Ethan,Smith,38,male,28,1,no,Wiltshire,6067.13
+537,Ella,Williams,33,female,38.9,3,no,West Yorkshire,5972.38
+538,Sofia,Turner,46,female,30.2,2,no,Cambridgeshire,8825.09
+539,Freya,Hughes,46,female,28.1,1,no,Lincolnshire,8233.1
+540,Leo,Jones,53,male,31.4,0,no,Bedfordshire,27346.04
+541,Daisy,Evans,34,female,38,3,no,Norfolk,6196.45
+542,Willow,Clarke,20,female,31.8,2,no,West Sussex,3056.39
+543,Millie,Wood,63,female,36.3,0,no,Worcestershire,13887.2
+544,Sophia,Thomas,54,female,47.4,0,yes,Herefordshire,63770.43
+545,Ethan,Wright,54,male,30.2,0,no,Herefordshire,10231.5
+546,Alfie,White,49,male,25.8,2,yes,Cumbria,23807.24
+547,Leo,Clarke,28,male,35.4,0,no,Derbyshire,3268.85
+548,Poppy,Jones,54,female,46.7,2,no,West Sussex,11538.42
+549,Matilda,Smith,25,female,28.6,0,no,Cheshire,3213.62
+550,Sienna,Hall,43,female,46.2,0,yes,Hertfordshire,45863.21
+551,Archie,Harris,63,male,30.8,0,no,Essex,13390.56
+552,Florence,Davies,32,female,28.9,0,no,Somerset,3972.92
+553,Oliver,Lewis,62,male,21.4,0,no,Warwickshire,12957.12
+554,Sienna,Walker,52,female,31.7,2,no,Staffordshire,11187.66
+555,Lily,Walker,25,female,41.3,0,no,Wiltshire,17878.9
+556,Theodore,Wright,28,male,23.8,2,no,West Sussex,3847.67
+557,Tommy,Wood,46,male,33.4,1,no,East Sussex,8334.59
+558,Charlie,Harris,34,male,34.2,0,no,West Sussex,3935.18
+559,Ava,White,35,female,34.1,3,yes,Bedfordshire,39983.43
+560,Tommy,Wood,19,male,35.5,0,no,Worcestershire,1646.43
+561,Charlotte,Davies,46,female,20,2,no,Bath and North East Somerset,9193.84
+562,Amelia,Turner,54,female,32.7,0,no,Shropshire,10923.93
+563,Isaac,Hall,27,male,30.5,0,no,North Somerset,2494.02
+564,Lucas,Jones,50,male,44.8,1,no,East Sussex,9058.73
+565,Willow,Williams,18,female,32.1,2,no,Shropshire,2801.26
+566,Daisy,White,19,female,30.5,0,no,Buckinghamshire,2128.43
+567,Grace,Harris,38,female,40.6,1,no,Bedfordshire,6373.56
+568,Arthur,Clark,41,male,30.6,2,no,Shropshire,7256.72
+569,Florence,Turner,49,female,31.9,5,no,Hampshire,11552.9
+570,George,White,48,male,40.6,2,yes,Devon,45702.02
+571,Florence,Turner,31,female,29.1,0,no,Bristol,3761.29
+572,Olivia,Edwards,18,female,37.3,1,no,Berkshire,2219.45
+573,Matilda,Harris,30,female,43.1,2,no,Hampshire,4753.64
+574,Isabella,White,62,female,36.9,1,no,Bath and North East Somerset,31620
+575,Ava,Brown,57,female,34.3,2,no,East Riding of Yorkshire,13224.06
+576,Elsie,Scott,58,female,27.2,0,no,Hampshire,12222.9
+577,Joshua,Corbyn,22,male,26.8,0,no,Essex,1665
+578,Grace,Corbyn,31,female,38.1,1,yes,Surrey,58571.07
+579,Theodore,Evans,52,male,30.2,1,no,Oxfordshire,9724.53
+580,Mia,Lewis,25,female,23.5,0,no,Bedfordshire,3206.49
+581,Finley,Hall,59,male,25.5,1,no,West Sussex,12913.99
+582,Joshua,Williams,19,male,30.6,0,no,Nottinghamshire,1639.56
+583,Leo,Corbyn,39,male,45.4,2,no,South Yorkshire,6356.27
+584,Lily,Johnson,32,female,23.7,1,no,Wiltshire,17626.24
+585,Tommy,Jackson,19,male,20.7,0,no,Bedfordshire,1242.82
+586,Olivia,White,33,female,28.3,1,no,Isle of Wight,4779.6
+587,Finley,Martin,21,male,20.2,3,no,Bristol,3861.21
+588,Emily,Evans,34,female,30.2,1,yes,North Yorkshire,43943.88
+589,Evie,Thomas,61,female,35.9,0,no,Dorset,13635.64
+590,Poppy,Turner,38,female,30.7,1,no,Devon,5976.83
+591,Olivia,Scott,58,female,29,0,no,Cornwall,11842.44
+592,Harry,White,47,male,19.6,1,no,West Sussex,8428.07
+593,James,Edwards,20,male,31.1,2,no,Cornwall,2566.47
+594,Isla,Harris,21,female,21.9,1,yes,Rutland,15359.1
+595,Theo,Green,41,male,40.3,0,no,Northumberland,5709.16
+596,Freya,Evans,46,female,33.7,1,no,Tyne & Wear,8823.99
+597,Olivia,Smith,42,female,29.5,2,no,Cheshire,7640.31
+598,Sophie,Thompson,34,female,33.3,1,no,Hampshire,5594.85
+599,Harry,Wright,43,male,32.6,2,no,East Riding of Yorkshire,7441.5
+600,Evie,Lewis,52,female,37.5,2,no,Suffolk,33471.97
+601,Matilda,White,18,female,39.2,0,no,County Durham,1633.04
+602,Joshua,Thompson,51,male,31.6,0,no,Wiltshire,9174.14
+603,Amelia,Turner,56,female,25.3,0,no,West Sussex,11070.54
+604,Phoebe,Hall,64,female,39.1,3,no,Lincolnshire,16085.13
+605,Sofia,Thompson,19,female,28.3,0,yes,Cheshire,17468.98
+606,Charlotte,Green,51,female,34.1,0,no,Dorset,9283.56
+607,Rosie,Jackson,27,female,25.2,0,no,Bristol,3558.62
+608,Olivia,Scott,59,female,23.7,0,yes,Northamptonshire,25678.78
+609,Theo,Taylor,28,male,27,2,no,Merseyside,4435.09
+610,Jack,Turner,30,male,37.8,2,yes,West Midlands,39241.44
+611,Ivy,Evans,47,female,29.4,1,no,Lincolnshire,8547.69
+612,Lily,Thompson,38,female,34.8,2,no,Buckinghamshire,6571.54
+613,Rosie,Brown,18,female,33.2,0,no,Kent,2207.7
+614,Rosie,Clarke,34,female,19,3,no,Worcestershire,6753.04
+615,Maya,Edwards,20,female,33,0,no,Norfolk,1880.07
+616,Sophie,Taylor,47,female,36.6,1,yes,Nottinghamshire,42969.85
+617,Ava,Brown,56,female,28.6,0,no,Isles of Scilly,11658.12
+618,Oliver,Smith,49,male,25.6,2,yes,Warwickshire,23306.55
+619,Rosie,Johnson,19,female,33.1,0,yes,Isles of Scilly,34439.86
+620,Sienna,Jones,55,female,37.1,0,no,Tyne & Wear,10713.64
+621,Finley,Clarke,30,male,31.4,1,no,South Gloucestershire,3659.35
+622,Lucas,Hall,37,male,34.1,4,yes,South Gloucestershire,40182.25
+623,Isabella,Turner,49,female,21.3,1,no,Cornwall,9182.17
+624,Oscar,Jones,18,male,33.5,0,yes,Warwickshire,34617.84
+625,William,Jackson,59,male,28.8,0,no,Greater Manchester,12129.61
+626,Elsie,Corbyn,29,female,26,0,no,Bedfordshire,3736.46
+627,Harry,Martin,36,male,28.9,3,no,Buckinghamshire,6748.59
+628,Alexander,Hughes,33,male,42.5,1,no,West Midlands,11326.71
+629,Jacob,Walker,58,male,38,0,no,Tyne & Wear,11365.95
+630,Sophia,Thompson,44,female,39,0,yes,Northumberland,42983.46
+631,Max,Smith,53,male,36.1,1,no,East Riding of Yorkshire,10085.85
+632,George,Williams,24,male,29.3,0,no,Suffolk,1977.82
+633,Sienna,Clark,29,female,35.5,0,no,Cornwall,3366.67
+634,Joshua,Corbyn,40,male,22.7,2,no,East Riding of Yorkshire,7173.36
+635,Harry,Thompson,51,male,39.7,1,no,Cheshire,9391.35
+636,Noah,Thompson,64,male,38.2,0,no,Cheshire,14410.93
+637,Florence,Harris,19,female,24.5,1,no,Warwickshire,2709.11
+638,Rosie,Hall,35,female,38.1,2,no,Suffolk,24915.05
+639,Alfie,Jackson,39,male,26.4,0,yes,Tyne & Wear,20149.32
+640,Alexander,Jones,56,male,33.7,4,no,West Midlands,12949.16
+641,Noah,Harris,33,male,42.4,5,no,Oxfordshire,6666.24
+642,James,Harris,42,male,28.3,3,yes,Wiltshire,32787.46
+643,Joshua,Smith,61,male,33.9,0,no,Herefordshire,13143.86
+644,Sofia,Scott,23,female,35,3,no,Lincolnshire,4466.62
+645,George,Turner,43,male,35.3,2,no,Berkshire,18806.15
+646,Finley,Scott,48,male,30.8,3,no,Nottinghamshire,10141.14
+647,Alexander,Roberts,39,male,26.2,1,no,Leicestershire,6123.57
+648,Maya,Johnson,40,female,23.4,3,no,Merseyside,8252.28
+649,Max,Wood,18,male,28.5,0,no,East Sussex,1712.23
+650,Ella,Green,58,female,33,0,no,Wiltshire,12430.95
+651,Phoebe,Wood,49,female,42.7,2,no,Derbyshire,9800.89
+652,Sofia,Clark,53,female,39.6,1,no,Suffolk,10579.71
+653,Ivy,Martin,48,female,31.1,0,no,Wiltshire,8280.62
+654,Matilda,White,45,female,36.3,2,no,Leicestershire,8527.53
+655,Sophia,Thomas,59,female,35.2,0,no,Northumberland,12244.53
+656,Mia,Thomas,52,female,25.3,2,yes,West Yorkshire,24667.42
+657,Daisy,Hughes,26,female,42.4,1,no,Northamptonshire,3410.32
+658,Jacob,Brown,27,male,33.2,2,no,Kent,4058.71
+659,Isabella,Johnson,48,female,35.9,1,no,Warwickshire,26392.26
+660,Maya,Turner,57,female,28.8,4,no,Rutland,14394.4
+661,Freddie,Wilson,37,male,46.5,3,no,Lincolnshire,6435.62
+662,Poppy,Walker,57,female,24,1,no,Rutland,22192.44
+663,Poppy,Robinson,32,female,31.5,1,no,North Somerset,5148.55
+664,Max,Wright,18,male,33.7,0,no,Buckinghamshire,1136.4
+665,Sophia,Brown,64,female,23,0,yes,Cumbria,27037.91
+666,Henry,Wright,43,male,38.1,2,yes,North Yorkshire,42560.43
+667,Noah,Brown,49,male,28.7,1,no,West Yorkshire,8703.46
+668,Millie,Roberts,40,female,32.8,2,yes,Isle of Wight,40003.33
+669,Jacob,Thompson,62,male,32,0,yes,Greater London,45710.21
+670,Sophie,Edwards,40,female,29.8,1,no,Isles of Scilly,6500.24
+671,James,Walker,30,male,31.6,3,no,Buckinghamshire,4837.58
+672,Sophia,Corbyn,29,female,31.2,0,no,Kent,3943.6
+673,Joshua,Martin,36,male,29.7,0,no,Kent,4399.73
+674,Ivy,Corbyn,41,female,31,0,no,Somerset,6185.32
+675,Ava,Thomas,44,female,43.9,2,yes,Tyne & Wear,46200.99
+676,Joshua,Wright,45,male,21.4,0,no,Leicestershire,7222.79
+677,Freya,Smith,55,female,40.8,3,no,Leicestershire,12485.8
+678,Ethan,Green,60,male,31.4,3,yes,South Yorkshire,46130.53
+679,Freddie,Lewis,56,male,36.1,3,no,East Sussex,12363.55
+680,Ella,Williams,49,female,23.2,2,no,Wiltshire,10156.78
+681,Mia,Martin,21,female,17.4,1,no,Gloucestershire,2585.27
+682,Jacob,Clark,19,male,20.3,0,no,Worcestershire,1242.26
+683,James,Green,39,male,35.3,2,yes,West Sussex,40103.89
+684,William,Johnson,53,male,24.3,0,no,West Sussex,9863.47
+685,Mia,Wright,33,female,18.5,1,no,East Sussex,4766.02
+686,Tommy,Roberts,53,male,26.4,2,no,Isle of Wight,11244.38
+687,Edward,Green,42,male,26.1,2,no,Hertfordshire,7729.65
+688,Charlie,Martin,40,male,41.7,0,no,West Midlands,5438.75
+689,Daisy,Edwards,47,female,24.1,1,no,Somerset,26236.58
+690,Charlie,Jackson,27,male,31.1,1,yes,Essex,34806.47
+691,Leo,Thompson,21,male,27.4,0,no,Tyne & Wear,2104.11
+692,Muhammad,Scott,47,male,36.2,1,no,East Sussex,8068.19
+693,Oliver,Taylor,20,male,32.4,1,no,Somerset,2362.23
+694,Alfie,White,24,male,23.7,0,no,Leicestershire,2352.97
+695,Freya,Edwards,27,female,34.8,1,no,Merseyside,3578
+696,Phoebe,Hall,26,female,40.2,0,no,North Somerset,3201.25
+697,Elsie,Edwards,53,female,32.3,2,no,Northumberland,29186.48
+698,Theo,Wood,41,male,35.8,1,yes,North Yorkshire,40273.65
+699,Tommy,Jackson,56,male,33.7,0,no,South Gloucestershire,10976.25
+700,Charlotte,Green,23,female,39.3,2,no,Devon,3500.61
+701,Elsie,Hughes,21,female,34.9,0,no,North Yorkshire,2020.55
+702,Evie,Clark,50,female,44.7,0,no,Bedfordshire,9541.7
+703,Oliver,Evans,53,male,41.5,0,no,West Yorkshire,9504.31
+704,Emily,Williams,34,female,26.4,1,no,Derbyshire,5385.34
+705,Elsie,Clarke,47,female,29.5,1,no,County Durham,8930.93
+706,Freya,Wood,33,female,32.9,2,no,Staffordshire,5375.04
+707,Evie,Corbyn,51,female,38.1,0,yes,Leicestershire,44400.41
+708,Leo,Wood,49,male,28.7,3,no,Hertfordshire,10264.44
+709,Sophie,Thomas,31,female,30.5,3,no,West Midlands,6113.23
+710,Phoebe,Walker,36,female,27.7,0,no,Kent,5469.01
+711,Jacob,Green,18,male,35.2,1,no,Norfolk,1727.54
+712,Matilda,Williams,50,female,23.5,2,no,Cumbria,10107.22
+713,Evelyn,Edwards,43,female,30.7,2,no,East Sussex,8310.84
+714,Max,Johnson,20,male,40.5,0,no,Kent,1984.45
+715,Mia,Wright,24,female,22.6,0,no,County Durham,2457.5
+716,Arthur,Clarke,60,male,28.9,0,no,Herefordshire,12146.97
+717,Sofia,White,49,female,22.6,1,no,Gloucestershire,9566.99
+718,Finley,Turner,60,male,24.3,1,no,Essex,13112.6
+719,Isla,Johnson,51,female,36.7,2,no,Cambridgeshire,10848.13
+720,Poppy,Corbyn,58,female,33.4,0,no,North Somerset,12231.61
+721,Poppy,Harris,51,female,40.7,0,no,Staffordshire,9875.68
+722,Harry,Williams,53,male,36.6,3,no,Bristol,11264.54
+723,James,Thomas,62,male,37.4,0,no,Oxfordshire,12979.36
+724,Leo,White,19,male,35.4,0,no,Kent,1263.25
+725,Isla,Harris,50,female,27.1,1,no,Lancashire,10106.13
+726,Phoebe,Martin,30,female,39.1,3,yes,Oxfordshire,40932.43
+727,Ethan,Corbyn,41,male,28.4,1,no,Hampshire,6664.69
+728,Freya,Robinson,29,female,21.8,1,yes,Devon,16657.72
+729,Emily,Jones,18,female,40.3,0,no,Merseyside,2217.6
+730,Maya,Wright,41,female,36.1,1,no,Devon,6781.35
+731,Noah,Wright,35,male,24.4,3,yes,Herefordshire,19362
+732,Max,Hall,53,male,21.4,1,no,Hertfordshire,10065.41
+733,Millie,Wood,24,female,30.1,3,no,Greater London,4234.93
+734,Ella,Corbyn,48,female,27.3,1,no,West Yorkshire,9447.25
+735,Poppy,White,59,female,32.1,3,no,Bath and North East Somerset,14007.22
+736,Ella,Taylor,49,female,34.8,1,no,Somerset,9583.89
+737,Emily,Thompson,37,female,38.4,0,yes,Northamptonshire,40419.02
+738,William,Roberts,26,male,23.7,2,no,Oxfordshire,3484.33
+739,Alfie,Martin,23,male,31.7,3,yes,Norfolk,36189.1
+740,Oliver,Taylor,29,male,35.5,2,yes,Devon,44585.46
+741,Isaac,Wright,45,male,24,2,no,Suffolk,8604.48
+742,Jack,Wilson,27,male,29.2,0,yes,Devon,18246.5
+743,Harry,Jones,53,male,34.1,0,yes,North Somerset,43254.42
+744,Grace,Wood,31,female,26.6,0,no,South Gloucestershire,3757.84
+745,Muhammad,Brown,50,male,26.4,0,no,Bedfordshire,8827.21
+746,Maya,Thomas,50,female,30.1,1,no,Cornwall,9910.36
+747,Ethan,Turner,34,male,27,2,no,Essex,11737.85
+748,Jack,Davies,19,male,21.8,0,no,Buckinghamshire,1627.28
+749,Isla,Jackson,47,female,36,1,no,Shropshire,8556.91
+750,Oliver,Wright,28,male,30.9,0,no,Hampshire,3062.51
+751,Phoebe,Wood,37,female,26.4,0,yes,Gloucestershire,19539.24
+752,Freddie,Martin,21,male,29,0,no,Staffordshire,1906.36
+753,Alexander,Hall,64,male,37.9,0,no,Leicestershire,14210.54
+754,Sofia,Davies,58,female,22.8,0,no,Lancashire,11833.78
+755,Theo,Lewis,24,male,33.6,4,no,Isle of Wight,17128.43
+756,Oliver,Green,31,male,27.6,2,no,Cornwall,5031.27
+757,Sienna,Thomas,39,female,22.8,3,no,Berkshire,7985.82
+758,Willow,Jones,47,female,27.8,0,yes,Cambridgeshire,23065.42
+759,Henry,Turner,30,male,37.4,3,no,Staffordshire,5428.73
+760,George,Wood,18,male,38.2,0,yes,Herefordshire,36307.8
+761,Evelyn,Smith,22,female,34.6,2,no,Leicestershire,3925.76
+762,Charlie,Thomas,23,male,35.2,1,no,Lancashire,2416.96
+763,Ethan,Brown,33,male,27.1,1,yes,Lincolnshire,19040.88
+764,Freddie,Jackson,27,male,26,0,no,Oxfordshire,3070.81
+765,Poppy,Corbyn,45,female,25.2,2,no,North Yorkshire,9095.07
+766,Evelyn,Edwards,57,female,31.8,0,no,Kent,11842.62
+767,Tommy,Clarke,47,male,32.3,1,no,West Sussex,8062.76
+768,Poppy,Martin,42,female,29,1,no,East Sussex,7050.64
+769,Sophia,Jackson,64,female,39.7,0,no,Somerset,14319.03
+770,Freya,Harris,38,female,19.5,2,no,Merseyside,6933.24
+771,Max,Wood,61,male,36.1,3,no,Surrey,27941.29
+772,Isla,Robinson,53,female,26.7,2,no,Wiltshire,11150.78
+773,Sofia,Evans,44,female,36.5,0,no,Berkshire,12797.21
+774,Rosie,Corbyn,19,female,28.9,0,yes,Rutland,17748.51
+775,Logan,Williams,41,male,34.2,2,no,West Sussex,7261.74
+776,Joshua,Taylor,51,male,33.3,3,no,Dorset,10560.49
+777,Tommy,White,40,male,32.3,2,no,Isle of Wight,6986.7
+778,Alexander,Evans,45,male,39.8,0,no,Bath and North East Somerset,7448.4
+779,Charlie,Martin,35,male,34.3,3,no,Buckinghamshire,5934.38
+780,Archie,Harris,53,male,28.9,0,no,Greater Manchester,9869.81
+781,James,Harris,30,male,24.4,3,yes,Bedfordshire,18259.22
+782,Harry,Jones,18,male,41.1,0,no,East Riding of Yorkshire,1146.8
+783,Alexander,Robinson,51,male,36,1,no,County Durham,9386.16
+784,Florence,Davies,50,female,27.6,1,yes,Staffordshire,24520.26
+785,Isabella,Hughes,31,female,29.3,1,no,Greater Manchester,4350.51
+786,Sienna,Wright,35,female,27.7,3,no,Merseyside,6414.18
+787,Freddie,Wright,60,male,37,0,no,County Durham,12741.17
+788,Thomas,Thompson,21,male,36.9,0,no,Somerset,1917.32
+789,Jacob,Lewis,29,male,22.5,3,no,Essex,5209.58
+790,Freya,Harris,62,female,29.9,0,no,North Somerset,13457.96
+791,Grace,Green,39,female,41.8,0,no,Hampshire,5662.23
+792,Oliver,Brown,19,male,27.6,0,no,Kent,1252.41
+793,Ava,Wilson,22,female,23.2,0,no,Nottinghamshire,2731.91
+794,Henry,Robinson,53,male,20.9,0,yes,Staffordshire,21195.82
+795,Charlotte,Clarke,39,female,31.9,2,no,Worcestershire,7209.49
+796,William,Turner,27,male,28.5,0,yes,Cheshire,18310.74
+797,Theodore,Johnson,30,male,44.2,2,no,Dorset,4266.17
+798,Evie,Martin,30,female,22.9,1,no,Norfolk,4719.52
+799,Ava,Johnson,58,female,33.1,0,no,Cumbria,11848.14
+800,Theo,White,33,male,24.8,0,yes,South Yorkshire,17904.53
+801,Isla,Thomas,42,female,26.2,1,no,Shropshire,7046.72
+802,Millie,Clark,64,female,36,0,no,East Riding of Yorkshire,14313.85
+803,Finley,Davies,21,male,22.3,1,no,Berkshire,2103.08
+804,Freya,Clark,18,female,42.2,0,yes,West Sussex,38792.69
+805,Henry,Evans,23,male,26.5,0,no,Oxfordshire,1815.88
+806,Ava,Johnson,45,female,35.8,0,no,Herefordshire,7731.86
+807,Sophia,Martin,40,female,41.4,1,no,Cambridgeshire,28476.73
+808,Elsie,Wright,19,female,36.6,0,no,Buckinghamshire,2136.88
+809,Oscar,Green,18,male,30.1,0,no,North Yorkshire,1131.51
+810,Logan,Johnson,25,male,25.8,1,no,Cumbria,3309.79
+811,Ivy,Johnson,46,female,30.8,3,no,Greater Manchester,9414.92
+812,Florence,Hughes,33,female,42.9,3,no,North Yorkshire,6360.99
+813,Finley,Turner,54,male,21,2,no,Rutland,11013.71
+814,Max,Martin,28,male,22.5,2,no,Lincolnshire,4428.89
+815,Noah,Evans,36,male,34.4,2,no,North Yorkshire,5584.31
+816,Olivia,Turner,20,female,31.5,0,no,Staffordshire,1877.93
+817,Evie,Robinson,24,female,24.2,0,no,Tyne & Wear,2842.76
+818,Jack,Clark,23,male,37.1,3,no,Tyne & Wear,3597.6
+819,Evie,Davies,47,female,26.1,1,yes,East Riding of Yorkshire,23401.31
+820,Elsie,Harris,33,female,35.5,0,yes,Rutland,55135.4
+821,Henry,Jones,45,male,33.7,1,no,Lancashire,7445.92
+822,Jacob,Jackson,26,male,17.7,0,no,Norfolk,2680.95
+823,Amelia,Hall,18,female,31.1,0,no,Greater London,1621.88
+824,Poppy,Taylor,44,female,29.8,2,no,North Yorkshire,8219.2
+825,Henry,Hall,60,male,24.3,0,no,Staffordshire,12523.6
+826,Mia,Wright,64,female,31.8,2,no,Lancashire,16069.08
+827,Lucas,Johnson,56,male,31.8,2,yes,Isle of Wight,43813.87
+828,William,Edwards,36,male,28,1,yes,Merseyside,20773.63
+829,Noah,White,41,male,30.8,3,yes,Leicestershire,39597.41
+830,Archie,Robinson,39,male,21.9,1,no,Tyne & Wear,6117.49
+831,Thomas,Wright,63,male,33.1,0,no,Wiltshire,13393.76
+832,Isabella,Clarke,36,female,25.8,0,no,Worcestershire,5266.37
+833,Maya,Williams,28,female,23.8,2,no,West Sussex,4719.74
+834,Alfie,Wilson,58,male,34.4,0,no,Bedfordshire,11743.93
+835,William,Harris,36,male,33.8,1,no,Cheshire,5377.46
+836,Theo,Scott,42,male,36,2,no,Kent,7160.33
+837,Alexander,Brown,36,male,31.5,0,no,Nottinghamshire,4402.23
+838,Harper,White,56,female,28.3,0,no,County Durham,11657.72
+839,Evelyn,Wright,35,female,23.5,2,no,Norfolk,6402.29
+840,Freya,Evans,59,female,31.4,0,no,Lancashire,12622.18
+841,Archie,Davies,21,male,31.1,0,no,Tyne & Wear,1526.31
+842,Theodore,Johnson,59,male,24.7,0,no,Lincolnshire,12323.94
+843,Matilda,Brown,23,female,32.8,2,yes,Northumberland,36021.01
+844,Freya,Evans,57,female,29.8,0,yes,Northumberland,27533.91
+845,Edward,Corbyn,53,male,30.5,0,no,Buckinghamshire,10072.06
+846,Matilda,Clark,60,female,32.5,0,yes,Essex,45008.96
+847,Sienna,Green,51,female,34.2,1,no,North Yorkshire,9872.7
+848,Ethan,Roberts,23,male,50.4,1,no,Shropshire,2438.06
+849,Matilda,Harris,27,female,24.1,0,no,Cumbria,2974.13
+850,Charlie,Hall,55,male,32.8,0,no,Oxfordshire,10601.63
+851,Sofia,White,37,female,30.8,0,yes,West Yorkshire,37270.15
+852,Logan,Thomas,61,male,32.3,2,no,Tyne & Wear,14119.62
+853,Elsie,Wood,46,female,35.5,0,yes,West Yorkshire,42111.66
+854,Lily,Taylor,53,female,23.8,2,no,Rutland,11729.68
+855,Sophie,White,49,female,23.8,3,yes,Kent,24106.91
+856,Elsie,Smith,20,female,29.6,0,no,Bath and North East Somerset,1875.34
+857,Poppy,Edwards,48,female,33.1,0,yes,North Yorkshire,40974.16
+858,Thomas,Clarke,25,male,24.1,0,yes,Wiltshire,15817.99
+859,Sofia,Corbyn,25,female,32.2,1,no,Merseyside,18218.16
+860,Freddie,Thomas,57,male,28.1,0,no,Devon,10965.45
+861,Isabella,Clark,37,female,47.6,2,yes,Buckinghamshire,46113.51
+862,Mia,Corbyn,38,female,28,3,no,Lancashire,7151.09
+863,Rosie,White,55,female,33.5,2,no,Cornwall,12269.69
+864,Matilda,Wood,36,female,19.9,0,no,Isle of Wight,5458.05
+865,Archie,Turner,51,male,25.4,0,no,Buckinghamshire,8782.47
+866,Leo,Hughes,40,male,29.9,2,no,Cheshire,6600.36
+867,Oscar,Hughes,18,male,37.3,0,no,Tyne & Wear,1141.45
+868,Muhammad,Jackson,57,male,43.7,1,no,Northamptonshire,11576.13
+869,Alfie,Thomas,61,male,23.7,0,no,Staffordshire,13129.6
+870,Willow,Wood,25,female,24.3,3,no,Surrey,4391.65
+871,Alfie,Hughes,50,male,36.2,0,no,Norfolk,8457.82
+872,Sophie,Wilson,26,female,29.5,1,no,Lancashire,3392.37
+873,Harry,Johnson,42,male,24.9,0,no,Cambridgeshire,5966.89
+874,Lucas,Jones,43,male,30.1,1,no,Lancashire,6849.03
+875,Joshua,Clark,44,male,21.9,3,no,Essex,8891.14
+876,Poppy,Hughes,23,female,28.1,0,no,South Yorkshire,2690.11
+877,Phoebe,Clarke,49,female,27.1,1,no,South Yorkshire,26140.36
+878,Max,Jackson,33,male,33.4,5,no,South Gloucestershire,6653.79
+879,Lucas,Walker,41,male,28.8,1,no,Shropshire,6282.24
+880,Sofia,Martin,37,female,29.5,2,no,Herefordshire,6311.95
+881,Arthur,Hall,22,male,34.8,3,no,Isles of Scilly,3443.06
+882,Logan,Scott,23,male,27.4,1,no,East Riding of Yorkshire,2789.06
+883,Evie,Evans,21,female,22.1,0,no,Dorset,2585.85
+884,Millie,White,51,female,37.1,3,yes,Berkshire,46255.11
+885,Jack,Brown,25,male,26.7,4,no,West Midlands,4877.98
+886,James,Lewis,32,male,28.9,1,yes,Cheshire,19719.69
+887,Jack,Corbyn,57,male,29,0,yes,Suffolk,27218.44
+888,Millie,Hall,36,female,30,0,no,West Midlands,5272.18
+889,Joshua,Robinson,22,male,39.5,0,no,Bristol,1682.6
+890,Logan,Johnson,57,male,33.6,1,no,Cornwall,11945.13
+891,Isla,Green,64,female,26.9,0,yes,Cumbria,29330.98
+892,Olivia,Green,36,female,29,4,no,North Somerset,7243.81
+893,Charlie,Jones,54,male,24,0,no,West Midlands,10422.92
+894,James,White,47,male,38.9,2,yes,North Yorkshire,44202.65
+895,Archie,Hughes,62,male,32.1,0,no,Kent,13555
+896,Millie,Clarke,61,female,44,0,no,Cornwall,13063.88
+897,Evie,Green,43,female,20,2,yes,Cumbria,19798.05
+898,Ethan,Taylor,19,male,25.6,1,no,Leicestershire,2221.56
+899,Harper,Roberts,18,female,40.3,0,no,West Midlands,1634.57
+900,Rosie,Clark,19,female,22.5,0,no,East Riding of Yorkshire,2117.34
+901,Alfie,Robinson,49,male,22.5,0,no,Bristol,8688.86
+902,Alfie,Thompson,60,male,40.9,0,yes,Hampshire,48673.56
+903,William,Johnson,26,male,27.3,3,no,Somerset,4661.29
+904,Archie,Clark,49,male,36.9,0,no,Derbyshire,8125.78
+905,Harper,Brown,60,female,35.1,0,no,Merseyside,12644.59
+906,Florence,Taylor,26,female,29.4,2,no,Nottinghamshire,4564.19
+907,Edward,Taylor,27,male,32.6,3,no,Staffordshire,4846.92
+908,Sofia,Scott,44,female,32.3,1,no,South Gloucestershire,7633.72
+909,Charlie,Clark,63,male,39.8,3,no,Merseyside,15170.07
+910,Isabella,Jackson,32,female,24.6,0,yes,Surrey,17496.31
+911,Ethan,Davies,22,male,28.3,1,no,Derbyshire,2639.04
+912,Logan,Scott,18,male,31.7,0,yes,Norfolk,33732.69
+913,Charlotte,Harris,59,female,26.7,3,no,Greater London,14382.71
+914,Phoebe,Harris,44,female,27.5,1,no,Gloucestershire,7626.99
+915,Tommy,Johnson,33,male,24.6,2,no,Suffolk,5257.51
+916,Maya,Wright,24,female,34,0,no,Berkshire,2473.33
+917,Ella,Lewis,43,female,26.9,0,yes,Tyne & Wear,21774.32
+918,Freddie,Clark,45,male,22.9,0,yes,Cheshire,35069.37
+919,Lily,Thomas,61,female,28.2,0,no,Hampshire,13041.92
+920,Mia,Smith,35,female,34.2,1,no,Derbyshire,5245.23
+921,Amelia,Thompson,62,female,25,0,no,South Yorkshire,13451.12
+922,Amelia,Green,62,female,33.2,0,no,Cheshire,13462.52
+923,Edward,Clark,38,male,31,1,no,Northamptonshire,5488.26
+924,Charlie,Davies,34,male,35.8,0,no,Cumbria,4320.41
+925,Joshua,Lewis,43,male,23.2,0,no,Rutland,6250.44
+926,Theodore,Wilson,50,male,32.1,2,no,Hampshire,25333.33
+927,Phoebe,Roberts,19,female,23.4,2,no,Worcestershire,2913.57
+928,Ava,Taylor,57,female,20.1,1,no,East Sussex,12032.33
+929,Sienna,Turner,62,female,39.2,0,no,Bristol,13470.8
+930,Isaac,Robinson,41,male,34.2,1,no,Bath and North East Somerset,6289.75
+931,Joshua,Johnson,26,male,46.5,1,no,East Riding of Yorkshire,2927.06
+932,Millie,Robinson,39,female,32.5,1,no,South Gloucestershire,6238.3
+933,Edward,Walker,46,male,25.8,5,no,Merseyside,10096.97
+934,Florence,Walker,45,female,35.3,0,no,Bath and North East Somerset,7348.14
+935,Ethan,Davies,32,male,37.2,2,no,Norfolk,4673.39
+936,Evie,Jackson,59,female,27.5,0,no,Gloucestershire,12233.83
+937,Jack,Edwards,44,male,29.7,2,no,Suffolk,32108.66
+938,Rosie,Turner,39,female,24.2,5,no,Somerset,8965.8
+939,Oliver,Taylor,18,male,26.2,2,no,Rutland,2304
+940,Joshua,Martin,53,male,29.5,0,no,Bath and North East Somerset,9487.64
+941,Archie,Roberts,18,male,23.2,0,no,Greater London,1121.87
+942,Poppy,Clark,50,female,46.1,1,no,Dorset,9549.57
+943,Phoebe,Martin,18,female,40.2,0,no,Bath and North East Somerset,2217.47
+944,George,Wood,19,male,22.6,0,no,Berkshire,1628.47
+945,Muhammad,Jones,62,male,39.9,0,no,North Somerset,12982.87
+946,Daisy,Brown,56,female,35.8,1,no,Cambridgeshire,11674.13
+947,Harry,Roberts,42,male,35.8,2,no,North Somerset,7160.09
+948,Oscar,Jones,37,male,34.2,1,yes,Isle of Wight,39047.29
+949,Muhammad,Jones,42,male,31.3,0,no,Greater London,6358.78
+950,Theo,Taylor,25,male,29.7,3,yes,Rutland,19933.46
+951,Oliver,Roberts,57,male,18.3,0,no,East Riding of Yorkshire,11534.87
+952,Leo,Clark,51,male,42.9,2,yes,Greater London,47462.89
+953,Sofia,Thomas,30,female,28.4,1,no,Kent,4527.18
+954,Isaac,Wood,44,male,30.2,2,yes,Shropshire,38998.55
+955,Oscar,Johnson,34,male,27.8,1,yes,West Yorkshire,20009.63
+956,Arthur,Thomas,31,male,39.5,1,no,Northamptonshire,3875.73
+957,Theodore,Thompson,54,male,30.8,1,yes,Cumbria,41999.52
+958,Thomas,Brown,24,male,26.8,1,no,Isle of Wight,12609.89
+959,Edward,Turner,43,male,35,1,yes,Leicestershire,41034.22
+960,Finley,Clark,48,male,36.7,1,no,Oxfordshire,28468.92
+961,Maya,Evans,19,female,39.6,1,no,Bristol,2730.11
+962,Charlotte,Green,29,female,25.9,0,no,Bath and North East Somerset,3353.28
+963,Evie,Harris,63,female,35.2,1,no,West Midlands,14474.68
+964,Joshua,Davies,46,male,24.8,3,no,North Yorkshire,9500.57
+965,Isaac,Turner,52,male,36.8,2,no,South Yorkshire,26467.1
+966,George,Martin,35,male,27.1,1,no,Greater Manchester,4746.34
+967,Ethan,Edwards,51,male,24.8,2,yes,Bath and North East Somerset,23967.38
+968,Alfie,Davies,44,male,25.4,1,no,Staffordshire,7518.03
+969,Logan,White,21,male,25.7,2,no,Northamptonshire,3279.87
+970,Sophie,Clark,39,female,34.3,5,no,Isles of Scilly,8596.83
+971,Maya,Scott,50,female,28.2,3,no,Isle of Wight,10702.64
+972,Rosie,Green,34,female,23.6,0,no,Buckinghamshire,4992.38
+973,Daisy,Walker,22,female,20.2,0,no,East Sussex,2527.82
+974,Evelyn,Smith,19,female,40.5,0,no,East Sussex,1759.34
+975,Jack,Taylor,26,male,35.4,0,no,East Sussex,2322.62
+976,Alfie,Taylor,29,male,22.9,0,yes,Cheshire,16138.76
+977,Muhammad,Edwards,48,male,40.2,0,no,Northamptonshire,7804.16
+978,Harry,Williams,26,male,29.2,1,no,Bedfordshire,2902.91
+979,Emily,Taylor,45,female,40,3,no,Wiltshire,9704.67
+980,Mia,Edwards,36,female,29.9,0,no,East Sussex,4889.04
+981,Tommy,Brown,54,male,25.5,1,no,Shropshire,25517.11
+982,Joshua,Wood,34,male,21.4,0,no,Merseyside,4500.34
+983,Muhammad,Robinson,31,male,25.9,3,yes,South Gloucestershire,19199.94
+984,Isabella,Harris,27,female,30.6,1,no,Bath and North East Somerset,16796.41
+985,Jacob,Smith,20,male,30.1,5,no,Norfolk,4915.06
+986,Sophie,Walker,44,female,25.8,1,no,Isle of Wight,7624.63
+987,Alexander,Roberts,43,male,30.1,3,no,Wiltshire,8410.05
+988,Olivia,Corbyn,45,female,27.6,1,no,Surrey,28340.19
+989,Finley,Turner,34,male,34.7,0,no,Isles of Scilly,4518.83
+990,Daisy,Clarke,24,female,20.5,0,yes,Dorset,14571.89
+991,Isabella,Jackson,26,female,19.8,1,no,Norfolk,3378.91
+992,Willow,Thompson,38,female,27.8,2,no,East Sussex,7144.86
+993,Evie,Jones,50,female,31.6,2,no,Dorset,10118.42
+994,Muhammad,Jones,38,male,28.3,1,no,Hertfordshire,5484.47
+995,Poppy,Clarke,27,female,20,3,yes,East Sussex,16420.49
+996,Matilda,Green,39,female,23.3,3,no,Staffordshire,7986.48
+997,Lily,Jones,39,female,34.1,3,no,Isle of Wight,7418.52
+998,Isabella,Thompson,63,female,36.9,0,no,Devon,13887.97
+999,Sophia,Martin,33,female,36.3,3,no,Derbyshire,6551.75
+1000,Daisy,Wilson,36,female,26.9,0,no,Somerset,5267.82
+1001,Tommy,Taylor,30,male,23,2,yes,Bristol,17361.77
+1002,William,Scott,24,male,32.7,0,yes,Oxfordshire,34472.84
+1003,George,Johnson,24,male,25.8,0,no,South Gloucestershire,1972.95
+1004,Thomas,Thompson,48,male,29.6,0,no,Worcestershire,21232.18
+1005,Muhammad,Robinson,47,male,19.2,1,no,Isles of Scilly,8627.54
+1006,Charlie,Clarke,29,male,31.7,2,no,Northumberland,4433.39
+1007,Freddie,Hughes,28,male,29.3,2,no,Merseyside,4438.26
+1008,William,Lewis,47,male,28.2,3,yes,North Yorkshire,24915.22
+1009,Tommy,Corbyn,25,male,25,2,no,East Sussex,23241.47
+1010,Alexander,Thompson,51,male,27.7,1,no,Cumbria,9957.72
+1011,Emily,Roberts,48,female,22.8,0,no,Cumbria,8269.04
+1012,George,Clarke,43,male,20.1,2,yes,East Riding of Yorkshire,18767.74
+1013,Lily,Davies,61,female,33.3,4,no,Northamptonshire,36580.28
+1014,Harry,Evans,48,male,32.3,1,no,Isles of Scilly,8765.25
+1015,Isla,Harris,38,female,27.6,0,no,Bedfordshire,5383.54
+1016,Theo,Green,59,male,25.5,0,no,Cumbria,12124.99
+1017,Phoebe,Lewis,19,female,24.6,1,no,West Sussex,2709.24
+1018,Freya,Thompson,26,female,34.2,2,no,North Yorkshire,3987.93
+1019,Sofia,Lewis,54,female,35.8,3,no,East Riding of Yorkshire,12495.29
+1020,Willow,Green,21,female,32.7,2,no,Tyne & Wear,26018.95
+1021,Finley,Turner,51,male,37,0,no,Warwickshire,8798.59
+1022,Evelyn,Clarke,22,female,31,3,yes,Dorset,35595.59
+1023,Edward,Lewis,47,male,36.1,1,yes,East Riding of Yorkshire,42211.14
+1024,Noah,Wright,18,male,23.3,1,no,Northumberland,1711.03
+1025,Sophie,Martin,47,female,45.3,1,no,Cambridgeshire,8569.86
+1026,Isabella,Martin,21,female,34.6,0,no,Herefordshire,2020.18
+1027,Oscar,Smith,19,male,26,1,yes,West Yorkshire,16450.89
+1028,Joshua,Green,23,male,18.7,0,no,Suffolk,21595.38
+1029,Harry,Edwards,54,male,31.6,0,no,Oxfordshire,9850.43
+1030,Daisy,Corbyn,37,female,17.3,2,no,Kent,6877.98
+1031,Emily,Hall,46,female,23.7,1,yes,Shropshire,21677.28
+1032,Sienna,Thompson,55,female,35.2,0,yes,Hampshire,44423.8
+1033,Lily,Jackson,30,female,27.9,0,no,Suffolk,4137.52
+1034,Finley,Turner,18,male,21.6,0,yes,Wiltshire,13747.87
+1035,George,Thompson,61,male,38.4,0,no,East Riding of Yorkshire,12950.07
+1036,Harper,Green,54,female,23,3,no,West Midlands,12094.48
+1037,Oliver,Jones,22,male,37.1,2,yes,Bedfordshire,37484.45
+1038,Evelyn,Taylor,45,female,30.5,1,yes,Isle of Wight,39725.52
+1039,Henry,Martin,22,male,28.9,0,no,Dorset,2250.84
+1040,Alexander,Johnson,19,male,27.3,2,no,South Gloucestershire,22493.66
+1041,Millie,Green,35,female,28,0,yes,County Durham,20234.85
+1042,Edward,Taylor,18,male,23.1,0,no,Shropshire,1704.7
+1043,Freddie,Smith,20,male,30.7,0,yes,East Sussex,33475.82
+1044,Sienna,Jones,28,female,25.8,0,no,Worcestershire,3161.45
+1045,Ethan,Davies,55,male,35.2,1,no,Lancashire,11394.07
+1046,Phoebe,White,43,female,24.7,2,yes,Gloucestershire,21880.82
+1047,Millie,Roberts,43,female,25.1,0,no,Herefordshire,7325.05
+1048,Henry,Lewis,22,male,52.6,1,yes,Wiltshire,44501.4
+1049,Olivia,Taylor,25,female,22.5,1,no,Staffordshire,3594.17
+1050,Tommy,Thomas,49,male,30.9,0,yes,Surrey,39727.61
+1051,Ella,Johnson,44,female,37,1,no,Berkshire,8023.14
+1052,Joshua,Robinson,64,male,26.4,0,no,Devon,14394.56
+1053,Henry,Jackson,49,male,29.8,1,no,Isle of Wight,9288.03
+1054,Isaac,Smith,47,male,29.8,3,yes,Tyne & Wear,25309.49
+1055,Sophie,Lewis,27,female,21.5,0,no,Northumberland,3353.47
+1056,Arthur,Jones,55,male,27.6,0,no,Gloucestershire,10594.5
+1057,Elsie,Wright,48,female,28.9,0,no,Derbyshire,8277.52
+1058,Phoebe,Wood,45,female,31.8,0,no,Wiltshire,17929.3
+1059,Florence,Jackson,24,female,39.5,0,no,Oxfordshire,2480.98
+1060,Max,Hughes,32,male,33.8,1,no,West Sussex,4462.72
+1061,Lucas,Thompson,24,male,32,0,no,North Yorkshire,1981.58
+1062,George,Scott,57,male,27.9,1,no,Norfolk,11554.22
+1063,Finley,Wood,59,male,41.1,1,yes,North Yorkshire,48970.25
+1064,Finley,Jones,36,male,28.6,3,no,Oxfordshire,6548.2
+1065,Ivy,Johnson,29,female,25.6,4,no,Northamptonshire,5708.87
+1066,Lily,Edwards,42,female,25.3,1,no,East Riding of Yorkshire,7045.5
+1067,Ethan,Williams,48,male,37.3,2,no,Wiltshire,8978.19
+1068,Muhammad,Brown,39,male,42.7,0,no,Oxfordshire,5757.41
+1069,Noah,Johnson,63,male,21.7,1,no,Hertfordshire,14349.85
+1070,Ivy,Lewis,54,female,31.9,1,no,South Gloucestershire,10928.85
+1071,Leo,Jones,37,male,37.1,1,yes,Isle of Wight,39871.7
+1072,Henry,Green,63,male,31.4,0,no,Bristol,13974.46
+1073,James,Brown,21,male,31.3,0,no,Tyne & Wear,1909.53
+1074,Evie,Wilson,54,female,28.9,2,no,Derbyshire,12096.65
+1075,Olivia,Wright,60,female,18.3,0,no,Kent,13204.29
+1076,Charlotte,Turner,32,female,29.6,1,no,Shropshire,4562.84
+1077,Ella,Williams,47,female,32,1,no,North Yorkshire,8551.35
+1078,Edward,Edwards,21,male,26,0,no,Northumberland,2102.26
+1079,Ethan,Wright,28,male,31.7,0,yes,Gloucestershire,34672.15
+1080,Tommy,Jones,63,male,33.7,3,no,North Yorkshire,15161.53
+1081,Jacob,Johnson,18,male,21.8,2,no,Somerset,11884.05
+1082,Alfie,Edwards,32,male,27.8,1,no,West Midlands,4454.4
+1083,Arthur,Wood,38,male,20,1,no,Essex,5855.9
+1084,Ethan,Clark,32,male,31.5,1,no,Bath and North East Somerset,4076.5
+1085,Maya,Turner,62,female,30.5,2,no,Isle of Wight,15019.76
+1086,Evie,Thomas,39,female,18.3,5,yes,Herefordshire,19023.26
+1087,Harry,Turner,55,male,29,0,no,Norfolk,10796.35
+1088,James,Clarke,57,male,31.5,0,no,South Yorkshire,11353.23
+1089,Thomas,Taylor,52,male,47.7,1,no,West Yorkshire,9748.91
+1090,Tommy,Wilson,56,male,22.1,0,no,Isle of Wight,10577.09
+1091,Jacob,Wood,47,male,36.2,0,yes,West Midlands,41676.08
+1092,Matilda,Green,55,female,29.8,0,no,North Yorkshire,11286.54
+1093,Alfie,Wilson,23,male,32.7,3,no,Greater London,3591.48
+1094,Evie,Thomas,22,female,30.4,0,yes,Buckinghamshire,33907.55
+1095,Maya,Thomas,50,female,33.7,4,no,North Somerset,11299.34
+1096,Grace,Robinson,18,female,31.4,4,no,Tyne & Wear,4561.19
+1097,Ella,Wright,51,female,35,2,yes,Buckinghamshire,44641.2
+1098,William,Wilson,22,male,33.8,0,no,East Sussex,1674.63
+1099,Sofia,Wilson,52,female,30.9,0,no,Staffordshire,23045.57
+1100,Phoebe,Hall,25,female,34,1,no,Devon,3227.12
+1101,Amelia,Wood,33,female,19.1,2,yes,Suffolk,16776.3
+1102,Max,Martin,53,male,28.6,3,no,Lancashire,11253.42
+1103,Jack,Scott,29,male,38.9,1,no,Herefordshire,3471.41
+1104,Oscar,Taylor,58,male,36.1,0,no,Greater London,11363.28
+1105,Theodore,Smith,37,male,29.8,0,no,Wiltshire,20420.6
+1106,Poppy,Williams,54,female,31.2,0,no,Lancashire,10338.93
+1107,Lily,Wood,49,female,29.9,0,no,Cheshire,8988.16
+1108,Millie,Walker,50,female,26.2,2,no,Herefordshire,10493.95
+1109,Max,Green,26,male,30,1,no,Essex,2904.09
+1110,Jacob,White,45,male,20.4,3,no,Lincolnshire,8605.36
+1111,Elsie,Corbyn,54,female,32.3,1,no,Cumbria,11512.41
+1112,Finley,Taylor,38,male,38.4,3,yes,Essex,41949.24
+1113,Mia,Wright,48,female,25.9,3,yes,South Yorkshire,24180.93
+1114,Rosie,Wright,28,female,26.3,3,no,Devon,5312.17
+1115,Noah,Evans,23,male,24.5,0,no,Hampshire,2396.1
+1116,Arthur,Scott,55,male,32.7,1,no,Isles of Scilly,10807.49
+1117,Henry,Thompson,41,male,29.6,5,no,Cheshire,9222.4
+1118,Oliver,Wilson,25,male,33.3,2,yes,Northumberland,36124.57
+1119,Max,White,33,male,35.8,1,yes,Berkshire,38282.75
+1120,Daisy,Brown,30,female,20,3,no,North Yorkshire,5693.43
+1121,Charlotte,Lewis,23,female,31.4,0,yes,Bedfordshire,34166.27
+1122,Isaac,Green,46,male,38.2,2,no,Isle of Wight,8347.16
+1123,Evie,Williams,53,female,36.9,3,yes,Devon,46661.44
+1124,Sienna,Walker,27,female,32.4,1,no,Lancashire,18903.49
+1125,Sofia,Hall,23,female,42.8,1,yes,West Yorkshire,40904.2
+1126,Evelyn,Edwards,63,female,25.1,0,no,Bristol,14254.61
+1127,Tommy,Johnson,55,male,29.9,0,no,Northamptonshire,10214.64
+1128,Sienna,Hughes,35,female,35.9,2,no,Hertfordshire,5836.52
+1129,Oliver,Clark,34,male,32.8,1,no,Bedfordshire,14358.36
+1130,Sophie,Martin,19,female,18.6,0,no,Devon,1728.9
+1131,Sofia,Taylor,39,female,23.9,5,no,Devon,8582.3
+1132,Joshua,Corbyn,27,male,45.9,2,no,Hertfordshire,3693.43
+1133,Edward,Roberts,57,male,40.3,0,no,Cumbria,20709.02
+1134,Charlotte,Jackson,52,female,18.3,0,no,Bath and North East Somerset,9991.04
+1135,Thomas,Turner,28,male,33.8,0,no,Cornwall,19673.34
+1136,Mia,Williams,50,female,28.1,3,no,North Yorkshire,11085.59
+1137,Charlotte,Johnson,44,female,25,1,no,Lancashire,7623.52
+1138,Daisy,Corbyn,26,female,22.2,0,no,Gloucestershire,3176.29
+1139,Finley,Johnson,33,male,30.3,0,no,Kent,3704.35
+1140,Lily,Clark,19,female,32.5,0,yes,Isle of Wight,36898.73
+1141,Jack,Corbyn,50,male,37.1,1,no,Rutland,9048.03
+1142,Grace,Corbyn,41,female,32.6,3,no,Lancashire,7954.52
+1143,Willow,Clark,52,female,24.9,0,no,North Yorkshire,27117.99
+1144,Oscar,Evans,39,male,32.3,2,no,Hertfordshire,6338.08
+1145,Noah,Clark,50,male,32.3,2,no,Gloucestershire,9630.4
+1146,Alfie,Williams,52,male,32.8,3,no,South Gloucestershire,11289.11
+1147,Thomas,Jackson,60,male,32.8,0,yes,Suffolk,52590.83
+1148,Olivia,Lewis,20,female,31.9,0,no,County Durham,2261.57
+1149,Charlie,Davies,55,male,21.5,1,no,West Midlands,10791.96
+1150,Leo,Jones,42,male,34.1,0,no,Worcestershire,5979.73
+1151,Elsie,Robinson,18,female,30.3,0,no,Hertfordshire,2203.74
+1152,Isabella,Jones,58,female,36.5,0,no,Staffordshire,12235.84
+1153,Sophia,Walker,43,female,32.6,3,yes,Kent,40941.29
+1154,Evie,Green,35,female,35.8,1,no,Cheshire,5630.46
+1155,Harper,Roberts,48,female,27.9,4,no,Norfolk,11015.17
+1156,Matilda,Jackson,36,female,22.1,3,no,Somerset,7228.22
+1157,Muhammad,Clarke,19,male,44.9,0,yes,Cornwall,39722.75
+1158,Evelyn,Wood,23,female,23.2,2,no,Shropshire,14426.07
+1159,Ava,Thompson,20,female,30.6,0,no,East Riding of Yorkshire,2459.72
+1160,Evelyn,Williams,32,female,41.1,0,no,Cheshire,3989.84
+1161,Rosie,Thompson,43,female,34.6,1,no,County Durham,7727.25
+1162,Joshua,Hughes,34,male,42.1,2,no,North Somerset,5124.19
+1163,Jacob,Robinson,30,male,38.8,1,no,Warwickshire,18963.17
+1164,Ivy,Turner,18,female,28.2,0,no,West Sussex,2200.83
+1165,Emily,White,41,female,28.3,1,no,Tyne & Wear,7153.55
+1166,Freya,Lewis,35,female,26.1,0,no,Derbyshire,5227.99
+1167,Logan,Hughes,57,male,40.4,0,no,Suffolk,10982.5
+1168,Phoebe,Thompson,29,female,24.6,2,no,Buckinghamshire,4529.48
+1169,Lucas,Smith,32,male,35.2,2,no,Hertfordshire,4670.64
+1170,Isla,Hall,37,female,34.1,1,no,Surrey,6112.35
+1171,Freddie,Lewis,18,male,27.4,1,yes,Gloucestershire,17178.68
+1172,Emily,Davies,43,female,26.7,2,yes,North Somerset,22478.6
+1173,Ava,Wilson,56,female,41.9,0,no,Bristol,11093.62
+1174,Alfie,Davies,38,male,29.3,2,no,Lancashire,6457.84
+1175,Alfie,Jones,29,male,32.1,2,no,Gloucestershire,4433.92
+1176,Sophia,Brown,22,female,27.1,0,no,County Durham,2154.36
+1177,Sophia,Clark,52,female,24.1,1,yes,Lincolnshire,23887.66
+1178,Daisy,Roberts,40,female,27.4,1,no,North Somerset,6496.89
+1179,Evelyn,Green,23,female,34.9,0,no,South Gloucestershire,2899.49
+1180,Muhammad,Taylor,31,male,29.8,0,yes,Hertfordshire,19350.37
+1181,Olivia,Taylor,42,female,41.3,1,no,Warwickshire,7650.77
+1182,Matilda,Roberts,24,female,29.9,0,no,Bath and North East Somerset,2850.68
+1183,Rosie,Harris,25,female,30.3,0,no,Rutland,2632.99
+1184,Evelyn,Wilson,48,female,27.4,1,no,Essex,9447.38
+1185,Ella,Green,23,female,28.5,1,yes,Cumbria,18328.24
+1186,Harry,Thompson,45,male,23.6,2,no,Northamptonshire,8603.82
+1187,Lucas,Smith,20,male,35.6,3,yes,Cambridgeshire,37465.34
+1188,Maya,Williams,62,female,32.7,0,no,Northumberland,13844.8
+1189,Evie,Thompson,43,female,25.3,1,yes,Merseyside,21771.34
+1190,Sophie,Wood,23,female,28,0,no,Greater London,13126.68
+1191,Isabella,White,31,female,32.8,2,no,South Yorkshire,5327.4
+1192,Rosie,Williams,41,female,21.8,1,no,Hertfordshire,13725.47
+1193,Amelia,Roberts,58,female,32.4,1,no,South Gloucestershire,13019.16
+1194,Freya,Walker,48,female,36.6,0,no,Suffolk,8671.19
+1195,Charlotte,Roberts,31,female,21.8,0,no,East Sussex,4134.08
+1196,Florence,Corbyn,19,female,27.9,3,no,Gloucestershire,18838.7
+1197,Isla,Clark,19,female,30,0,yes,North Yorkshire,33307.55
+1198,Leo,Johnson,41,male,33.6,0,no,Isle of Wight,5699.84
+1199,Theodore,White,40,male,29.4,1,no,Berkshire,6393.6
+1200,Rosie,Clark,31,female,25.8,2,no,Norfolk,4934.71
+1201,James,Hughes,37,male,24.3,2,no,Buckinghamshire,6198.75
+1202,Finley,Scott,46,male,40.4,2,no,Hampshire,8733.23
+1203,Logan,Scott,22,male,32.1,0,no,West Sussex,2055.32
+1204,Freddie,Evans,51,male,32.3,1,no,Bedfordshire,9964.06
+1205,Elsie,Johnson,18,female,27.3,3,yes,Somerset,18223.45
+1206,Max,Martin,35,male,17.9,1,no,Hertfordshire,5116.5
+1207,Harper,Wilson,59,female,34.8,2,no,Tyne & Wear,36910.61
+1208,Oscar,Jackson,36,male,33.4,2,yes,Hertfordshire,38415.47
+1209,Sienna,Davies,37,female,25.6,1,yes,Suffolk,20296.86
+1210,Tommy,White,59,male,37.1,1,no,Nottinghamshire,12347.17
+1211,Alexander,Roberts,36,male,30.9,1,no,Kent,5373.36
+1212,Isaac,Smith,39,male,34.1,2,no,Surrey,23563.02
+1213,William,Roberts,18,male,21.5,0,no,East Sussex,1702.46
+1214,Sofia,Lewis,52,female,33.3,2,no,Suffolk,10806.84
+1215,Willow,Clark,27,female,31.3,1,no,Cornwall,3956.07
+1216,Joshua,Wright,18,male,39.1,0,no,East Riding of Yorkshire,12890.06
+1217,Theodore,Robinson,40,male,25.1,0,no,Shropshire,5415.66
+1218,Archie,Clarke,29,male,37.3,2,no,Staffordshire,4058.12
+1219,Poppy,Johnson,46,female,34.6,1,yes,Surrey,41661.6
+1220,Emily,Harris,38,female,30.2,3,no,Isle of Wight,7537.16
+1221,Harper,Jackson,30,female,21.9,1,no,Suffolk,4718.2
+1222,Oscar,Hughes,40,male,25,2,no,South Gloucestershire,6593.51
+1223,Ethan,Scott,50,male,25.3,0,no,Bristol,8442.67
+1224,Evie,Taylor,20,female,24.4,0,yes,Herefordshire,26125.67
+1225,Logan,Hughes,41,male,23.9,1,no,South Yorkshire,6858.48
+1226,Willow,Martin,33,female,39.8,1,no,Bedfordshire,4795.66
+1227,Alexander,White,38,male,16.8,2,no,West Sussex,6640.54
+1228,Ethan,Hall,42,male,37.2,2,no,Surrey,7162.01
+1229,Alexander,Scott,56,male,34.4,0,no,East Riding of Yorkshire,10594.23
+1230,Isaac,Green,58,male,30.3,0,no,Cheshire,11938.26
+1231,Isaac,Turner,52,male,34.5,3,yes,Oxfordshire,60021.4
+1232,Grace,Smith,20,female,21.8,0,yes,South Yorkshire,20167.34
+1233,Sophie,Lewis,54,female,24.6,3,no,Lincolnshire,12479.71
+1234,Theo,Hall,58,male,23.3,0,no,South Yorkshire,11345.52
+1235,Sophie,Thomas,45,female,27.8,2,no,Cumbria,8515.76
+1236,Arthur,Green,26,male,31.1,0,no,Northamptonshire,2699.57
+1237,Willow,Corbyn,63,female,21.7,0,no,East Riding of Yorkshire,14449.85
+1238,Millie,Harris,58,female,28.2,0,no,Buckinghamshire,12224.35
+1239,Isaac,Thompson,37,male,22.7,3,no,Greater Manchester,6985.51
+1240,Phoebe,Hall,25,female,42.1,1,no,Bedfordshire,3238.44
+1241,Thomas,Hall,52,male,41.8,2,yes,Lancashire,47269.85
+1242,Freddie,Jackson,64,male,37,2,yes,Isle of Wight,49577.66
+1243,Isabella,Martin,22,female,21.3,3,no,West Sussex,4296.27
+1244,Evelyn,Hall,28,female,33.1,0,no,Essex,3171.61
+1245,Muhammad,Jackson,18,male,33.3,0,no,Cornwall,1135.94
+1246,Jack,Wright,28,male,24.3,5,no,South Yorkshire,5615.37
+1247,Sofia,Harris,45,female,25.7,3,no,East Riding of Yorkshire,9101.8
+1248,Leo,Wright,33,male,29.4,4,no,Bristol,6059.17
+1249,Millie,Edwards,18,female,39.8,0,no,Worcestershire,1633.96
+1250,Isaac,Wright,32,male,33.6,1,yes,Tyne & Wear,37607.53
+1251,Freddie,Roberts,24,male,29.8,0,yes,West Yorkshire,18648.42
+1252,Jack,Johnson,19,male,19.8,0,no,Worcestershire,1241.57
+1253,Henry,Thomas,20,male,27.3,0,yes,Isles of Scilly,16232.85
+1254,Sophia,Hughes,40,female,29.3,4,no,Tyne & Wear,15828.82
+1255,Willow,Williams,34,female,27.7,0,no,South Yorkshire,4415.16
+1256,Amelia,Wright,42,female,37.9,0,no,Wiltshire,6474.01
+1257,Mia,Wilson,51,female,36.4,3,no,Bath and North East Somerset,11436.74
+1258,Grace,Scott,54,female,27.6,1,no,Greater London,11305.93
+1259,Ethan,Jones,55,male,37.7,3,no,Lancashire,30063.58
+1260,Charlotte,Edwards,52,female,23.2,0,no,Devon,10197.77
+1261,Isabella,Thompson,32,female,20.5,0,no,Essex,4544.23
+1262,William,Thomas,28,male,37.1,1,no,Cumbria,3277.16
+1263,Emily,Corbyn,41,female,28.1,1,no,West Yorkshire,6770.19
+1264,Millie,Clarke,43,female,29.9,1,no,South Gloucestershire,7337.75
+1265,Olivia,Evans,49,female,33.3,2,no,South Yorkshire,10370.91
+1266,Max,Scott,64,male,23.8,0,yes,Lancashire,26926.51
+1267,Mia,Edwards,55,female,30.5,0,no,Greater Manchester,10704.47
+1268,Arthur,Jackson,24,male,31.1,0,yes,Northumberland,34254.05
+1269,Isabella,Hall,20,female,33.3,0,no,Essex,1880.49
+1270,Ethan,Scott,45,male,27.5,3,no,Essex,8615.3
+1271,Archie,Jackson,26,male,33.9,1,no,East Riding of Yorkshire,3292.53
+1272,Rosie,Wilson,25,female,34.5,0,no,Northamptonshire,3021.81
+1273,Edward,Wilson,43,male,25.5,5,no,County Durham,14478.33
+1274,Tommy,Hall,35,male,27.6,1,no,Devon,4747.05
+1275,Alfie,Lewis,26,male,27.1,0,yes,Berkshire,17043.34
+1276,Jacob,Jackson,57,male,23.7,0,no,Worcestershire,10959.33
+1277,Evie,Hall,22,female,30.4,0,no,Greater Manchester,2741.95
+1278,Rosie,Green,32,female,29.7,0,no,Lancashire,4357.04
+1279,Jack,Wilson,39,male,29.9,1,yes,Shropshire,22462.04
+1280,Charlotte,Walker,25,female,26.8,2,no,North Somerset,4189.11
+1281,Ivy,Green,48,female,33.3,0,no,Bedfordshire,8283.68
+1282,Sienna,Wood,47,female,27.6,2,yes,Worcestershire,24535.7
+1283,Emily,Roberts,18,female,21.7,0,yes,West Sussex,14283.46
+1284,Noah,Clarke,18,male,30,1,no,Northamptonshire,1720.35
+1285,Ethan,Wilson,61,male,36.3,1,yes,Dorset,47403.88
+1286,Evie,Robinson,47,female,24.3,0,no,Isle of Wight,8534.67
+1287,Florence,Brown,28,female,17.3,0,no,Greater London,3732.63
+1288,Ava,Thomas,36,female,25.9,1,no,West Midlands,5472.45
+1289,Jacob,Brown,20,male,39.4,2,yes,West Yorkshire,38344.57
+1290,Archie,Edwards,44,male,34.3,1,no,Northamptonshire,7147.47
+1291,Emily,Lewis,38,female,20,2,no,Hampshire,7133.9
+1292,William,Corbyn,19,male,34.9,0,yes,Greater Manchester,34828.65
+1293,Leo,Harris,21,male,23.2,0,no,Hampshire,1515.34
+1294,Harry,Clark,46,male,25.7,3,no,Oxfordshire,9301.89
+1295,Noah,Wood,58,male,25.2,0,no,Hampshire,11931.13
+1296,Henry,Wright,20,male,22,1,no,Rutland,1964.78
+1297,Lucas,Clark,18,male,26.1,0,no,West Midlands,1708.93
+1298,Elsie,Roberts,28,female,26.5,2,no,Bedfordshire,4340.44
+1299,Max,Robinson,33,male,27.5,2,no,Cornwall,5261.47
+1300,Grace,Green,19,female,25.7,1,no,Tyne & Wear,2710.83
+1301,Jack,Thomas,45,male,30.4,0,yes,South Yorkshire,62592.87
+1302,Thomas,Wilson,62,male,30.9,3,yes,Lancashire,46718.16
+1303,Elsie,Corbyn,25,female,20.8,1,no,Northumberland,3208.79
+1304,Jack,Lewis,43,male,27.8,0,yes,Cumbria,37829.72
+1305,George,Smith,42,male,24.6,2,yes,South Yorkshire,21259.38
+1306,Amelia,Clarke,24,female,27.7,0,no,Cumbria,2464.62
+1307,Isabella,Thompson,29,female,21.9,0,yes,Berkshire,16115.3
+1308,Harry,Wilson,32,male,28.1,4,yes,Northumberland,21472.48
+1309,Elsie,Wright,25,female,30.2,0,yes,East Riding of Yorkshire,33900.65
+1310,Charlie,Roberts,41,male,32.2,2,no,Shropshire,6875.96
+1311,Alfie,Johnson,42,male,26.3,1,no,East Sussex,6940.91
+1312,Sophie,Clark,33,female,26.7,0,no,Bedfordshire,4571.41
+1313,Lucas,Scott,34,male,42.9,1,no,Greater London,4536.26
+1314,Poppy,Walker,19,female,34.7,2,yes,Northamptonshire,36397.58
+1315,Sofia,Martin,30,female,23.7,3,yes,Greater London,18765.88
+1316,George,Jackson,18,male,28.3,1,no,County Durham,11272.33
+1317,Isla,Corbyn,19,female,20.6,0,no,Cambridgeshire,1731.68
+1318,Alexander,Wright,18,male,53.1,0,no,West Midlands,1163.46
+1319,Theodore,Davies,35,male,39.7,4,no,Greater Manchester,19496.72
+1320,Charlotte,Williams,39,female,26.3,2,no,Wiltshire,7201.7
+1321,Finley,Wilson,31,male,31.1,3,no,Hertfordshire,5425.02
+1322,Isaac,Wilson,62,male,26.7,0,yes,West Sussex,28101.33
+1323,Theo,Corbyn,62,male,38.8,0,no,Cheshire,12981.35
+1324,Amelia,Wright,42,female,40.4,2,yes,Herefordshire,43896.38
+1325,Jack,Wood,31,male,25.9,1,no,Bedfordshire,4239.89
+1326,Theodore,Wood,61,male,33.5,0,no,Oxfordshire,13143.34
+1327,Elsie,Roberts,42,female,32.9,0,no,Surrey,7050.02
+1328,Arthur,White,51,male,30,1,no,Worcestershire,9377.9
+1329,Grace,Jackson,23,female,24.2,2,no,Berkshire,22395.74
+1330,Isaac,Martin,52,male,38.6,2,no,Cornwall,10325.21
+1331,Sophia,Thompson,57,female,25.7,2,no,East Sussex,12629.17
+1332,Elsie,Williams,23,female,33.4,0,no,Herefordshire,10795.94
+1333,Sofia,Wood,52,female,44.7,3,no,Devon,11411.69
+1334,Noah,Wilson,50,male,31,3,no,Northumberland,10600.55
+1335,Ava,Thompson,18,female,31.9,0,no,East Sussex,2205.98
+1336,Ella,Lewis,18,female,36.9,0,no,Buckinghamshire,1629.83
+1337,Grace,Thompson,21,female,25.8,0,no,Lincolnshire,2007.95
+1338,Sofia,Johnson,61,female,29.1,0,yes,Northumberland,29141.36
+1339,Freya,Green,63,female,25.1,3,yes,Bristol,22564
